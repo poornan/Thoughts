@@ -1,5 +1,7 @@
 ## Critique
 
+{% hint style="info" %} This is by Google AI Studio {% endhint %}
+
 Of course. Here is a critical analysis of the content from the provided SRT.
 
 ***
