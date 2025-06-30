@@ -6,4 +6,3 @@
       * [Article](readme/transformations/legacy-systems-a-culture-of-friction/page-1.md)
       * [Highlights](readme/transformations/legacy-systems-a-culture-of-friction/highlights.md)
       * [Critique](readme/transformations/legacy-systems-a-culture-of-friction/critique.md)
-* [Disclaimer](<README (1).md>)
