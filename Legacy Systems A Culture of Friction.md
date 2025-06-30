@@ -36,9 +36,11 @@ The constant sense of urgency, the "adrenaline junkie" mentality, combined with 
 
 ***
 
-## This is by Google AI Studio
+{% hint style="info" %}
+#### This is by Google AI Studio
+{% endhint %}
 
-## Of course. Here is the content from the provided SRT, rewritten as a clear and annotated article, incorporating the speaker's analogies and anecdotes.
+Of course. Here is the content from the provided SRT, rewritten as a clear and annotated article, incorporating the speaker's analogies and anecdotes.
 
 ### The Illusion of Competence: Unmasking Chauffeur's Knowledge in the Workplace
 
