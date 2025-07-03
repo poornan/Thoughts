@@ -7,7 +7,7 @@ description: >-
 # Failure doesn’t respect abstraction.
 
 {% hint style="info" %}
-When I started Pair Programming with a team, I shared a link on this article. The Google Story.
+In 2020,  when I introduce Pair Programming to a team, I shared a link on this article. The Google Story.
 {% endhint %}
 
 {% embed url="https://architectelevator.com/architecture/failure-doesnt-respect-abstraction/" %}
