@@ -10,6 +10,8 @@ Write a paragraph about "About me"
 
 ***
 
-I do a day job, I believe, where I feel that contribute to greater good. Contributing to state institution is a key to uphold common values. Any country to day doing well definitely one pillar is strong state, especially in singapore. Then I work in Government Procurement domain. Trade is a key for ensuring peace and stability between nation. establishing regional procurement help absorb uncertainty rather than engaging in futile attempts to reduce it.
+I do a day job, I believe, where I feel that contribute to greater good. Contributing to state institution is a key to uphold common values. Any country to day doing well definitely one pillar is strong state, especially in singapore. Then I work in Government Procurement domain. Trade is a key for ensuring peace and stability between nation. establishing regional procurement help absorb uncertainty rather than engaging in futile attempts to reduce it\[1].
 
 ***
+
+1. [https://thecynefin.co/wp-content/uploads/2025/07/snowden-2011-good-fences-make-good-neighbors-m-1-2.pdf](https://thecynefin.co/wp-content/uploads/2025/07/snowden-2011-good-fences-make-good-neighbors-m-1-2.pdf)

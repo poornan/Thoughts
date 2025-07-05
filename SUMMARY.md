@@ -9,6 +9,7 @@
       * [Highlights](readme/transformations/legacy-systems-a-culture-of-friction/highlights.md)
       * [Critique](readme/transformations/legacy-systems-a-culture-of-friction/critique.md)
       * [Monologue](readme/transformations/legacy-systems-a-culture-of-friction/monologue.md)
+    * [Value Contribution Matrix](readme/transformations/value-contribution-matrix.md)
   * [Cognitive Biases, Simple Errors](readme/cognitive-biases-simple-errors/README.md)
     * [The Action/Omission Bias](readme/cognitive-biases-simple-errors/the-action-omission-bias.md)
   * [External Resources](readme/external-resources/README.md)
@@ -17,3 +18,4 @@
     * [Vendor who's happy to take your money and assure you all is fine.](readme/external-resources/vendor-whos-happy-to-take-your-money-and-assure-you-all-is-fine..md)
     * [An "abstraction" in software design is any element whose outside is smaller than its inside.](readme/external-resources/an-abstraction-in-software-design-is-any-element-whose-outside-is-smaller-than-its-inside..md)
     * [The Action/Omission Bias](readme/external-resources/the-action-omission-bias.md)
+    * [Good fences make good neighbors](readme/external-resources/good-fences-make-good-neighbors.md)
