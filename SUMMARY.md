@@ -10,6 +10,7 @@
       * [Critique](readme/transformations/legacy-systems-a-culture-of-friction/critique.md)
       * [Monologue](readme/transformations/legacy-systems-a-culture-of-friction/monologue.md)
     * [Trust](readme/transformations/trust.md)
+    * [Privilege](readme/transformations/privilege.md)
     * [Value Contribution Matrix](readme/transformations/value-contribution-matrix.md)
     * [Canny](readme/transformations/canny.md)
     * [Ergodicity](readme/transformations/ergodicity.md)
@@ -24,3 +25,5 @@
     * [An "abstraction" in software design is any element whose outside is smaller than its inside.](readme/external-resources/an-abstraction-in-software-design-is-any-element-whose-outside-is-smaller-than-its-inside..md)
     * [The Action/Omission Bias](readme/external-resources/the-action-omission-bias.md)
     * [Good fences make good neighbors](readme/external-resources/good-fences-make-good-neighbors.md)
+    * [Trust-Refs](readme/external-resources/trust-refs.md)
+    * [Privilege-refs](readme/external-resources/privilege-refs.md)
