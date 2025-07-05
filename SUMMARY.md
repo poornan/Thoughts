@@ -9,6 +9,7 @@
       * [Highlights](readme/transformations/legacy-systems-a-culture-of-friction/highlights.md)
       * [Critique](readme/transformations/legacy-systems-a-culture-of-friction/critique.md)
       * [Monologue](readme/transformations/legacy-systems-a-culture-of-friction/monologue.md)
+    * [Trust](readme/transformations/trust.md)
     * [Value Contribution Matrix](readme/transformations/value-contribution-matrix.md)
     * [Canny](readme/transformations/canny.md)
     * [Ergodicity](readme/transformations/ergodicity.md)
