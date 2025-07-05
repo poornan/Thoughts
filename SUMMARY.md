@@ -12,6 +12,7 @@
     * [Value Contribution Matrix](readme/transformations/value-contribution-matrix.md)
     * [Canny](readme/transformations/canny.md)
     * [Ergodicity](readme/transformations/ergodicity.md)
+    * [Professionalism/Education/Employability](readme/transformations/professionalism-education-employability.md)
   * [Cognitive Biases, Simple Errors](readme/cognitive-biases-simple-errors/README.md)
     * [The Action/Omission Bias](readme/cognitive-biases-simple-errors/the-action-omission-bias.md)
   * [External Resources](readme/external-resources/README.md)
