@@ -14,3 +14,4 @@
     * [The Friendship That Made Google Huge](readme/external-resources/the-friendship-that-made-google-huge.md)
     * [Vendor who's happy to take your money and assure you all is fine.](readme/external-resources/vendor-whos-happy-to-take-your-money-and-assure-you-all-is-fine..md)
     * [An "abstraction" in software design is any element whose outside is smaller than its inside.](readme/external-resources/an-abstraction-in-software-design-is-any-element-whose-outside-is-smaller-than-its-inside..md)
+    * [The Action/Omission Bias](readme/external-resources/the-action-omission-bias.md)
