@@ -31,5 +31,6 @@
     * [An "abstraction" in software design is any element whose outside is smaller than its inside.](readme/external-resources/an-abstraction-in-software-design-is-any-element-whose-outside-is-smaller-than-its-inside..md)
     * [The Action/Omission Bias](readme/external-resources/the-action-omission-bias.md)
     * [Good fences make good neighbors](readme/external-resources/good-fences-make-good-neighbors.md)
+    * [“Influence our culture, help us make more money, and then maybe someday someone will pay you,”](readme/external-resources/influence-our-culture-help-us-make-more-money-and-then-maybe-someday-someone-will-pay-you.md)
     * [Trust-Refs](readme/external-resources/trust-refs.md)
     * [Privilege-refs](readme/external-resources/privilege-refs.md)
