@@ -14,4 +14,30 @@ I do a day job, I believe, where I feel that contribute to greater good. Contrib
 
 ***
 
+One of my favorite definitions of humility if from scholar and author John Dickson:[9](https://substack.com/home/post/p-145662643#footnote-9-145662643)
+
+“Humility is the noble choice to forgo your status and to use your influence for the good of others before yourself.”
+
+If character is a tree, humility is the roots. The deeper the roots, the stronger your character. Nurture your character tree by reading and critical self-reflection.
+
+With universal values,
+
+* we can **connect** with others through our **shared humanity**,
+* we can **transcend differences** to find **common ground**, and
+* we can **co-create** to **solve problems** together.
+
+Remember, be consistent and reliable and keep all promises and commitments.
+
+{% hint style="info" %}
+“I'm not interested in resolving it. I’m also not interested in avoiding it, ... My goal, as a journalist and as a human, is if I can do one of three things: Can I, myself, understand the other **person**, the **problem**, or **myself** a little better through this encounter?”
+{% endhint %}
+
+{% hint style="info" %}
+[https://substack.com/home/post/p-145662643](https://substack.com/home/post/p-145662643)
+{% endhint %}
+
+
+
+***
+
 1. [https://thecynefin.co/wp-content/uploads/2025/07/snowden-2011-good-fences-make-good-neighbors-m-1-2.pdf](https://thecynefin.co/wp-content/uploads/2025/07/snowden-2011-good-fences-make-good-neighbors-m-1-2.pdf)

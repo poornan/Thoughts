@@ -4,9 +4,13 @@
 
 {% embed url="https://substack.com/@levelupwithethanevans/note/c-123694722" %}
 
+{% embed url="https://teampublichealth.substack.com/p/leadership-is-getting-results-in" %}
+
 {% embed url="https://teampublichealth.substack.com/p/leadership-is-getting-results-in-2f3" %}
 
-{% embed url="https://teampublichealth.substack.com/p/leadership-is-getting-results-in" %}
+{% embed url="https://teampublichealth.substack.com/p/mastering-ai-for-human-flourishing" %}
+
+{% embed url="https://link.excalidraw.com/p/readonly/yT0khkQZ7p2E2SfSruXW" %}
 
 {% embed url="https://www.linkedin.com/posts/ethanevansvp_this-diagram-explains-how-to-build-trust-activity-7334983448895377409-5kYF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiPr0EBvP-pDYe3CqTxbY2JXKfT2UPAvQY" %}
 

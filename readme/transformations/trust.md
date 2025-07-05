@@ -1,7 +1,5 @@
 ---
-description: >-
-  is the willingness of a party [trustor] to be vulnerable to the actions of
-  another party [trustee]
+description: In short, trust is the willingness to be vulnerable to another party.
 ---
 
 # Trust
