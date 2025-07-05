@@ -2,8 +2,4 @@
 
 
 
-../external-resources/the-action-omission-bias.md
-
-
-
-\
+{% embed url="../external-resources/the-action-omission-bias.md" %}
