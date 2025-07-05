@@ -4,7 +4,11 @@
 >
 > “Influence our culture, help us make more money, and then maybe someday someone will pay you,” is not the delicious offer you seem to think it should be.
 >
-> I’ve gotten feedback—oh don’t talk about this or no one will ever hire you. But it just doesn’t make sense to me so I’m going to talk about it. — Kent Beck
+> I’ve gotten feedback—oh don’t talk about this or no one will ever hire you. But it just doesn’t make sense to me so I’m going to talk about it.&#x20;
+>
+> I’m seeking to understand here. What are the beliefs and principles that cause that line of thinking to make sense? I’d also like to be understood—“yes Kent I see your point” not “but other people talk/consult/write for free”.
+>
+> — Kent Beck
 
 
 
