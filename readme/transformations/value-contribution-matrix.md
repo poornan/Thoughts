@@ -4,17 +4,18 @@
 
 1. Eisenhower Matrix [#the-eisenhower-matrix](value-contribution-matrix.md#the-eisenhower-matrix "mention")
 2. Pareto and Gaussian distributions [#pareto-and-gaussian-normal-distributions](value-contribution-matrix.md#pareto-and-gaussian-normal-distributions "mention")
-3. System 1 vs System 2 Thinking [#what-is-system-1-and-system-2-thinking](value-contribution-matrix.md#what-is-system-1-and-system-2-thinking "mention")
-4. Complicated vs Complex [#complicated-vs-complex](value-contribution-matrix.md#complicated-vs-complex "mention")
-5. Novelty vs Repetition [#recipes-vs-chefs](value-contribution-matrix.md#recipes-vs-chefs "mention")
-6. Resilience vs Robustness [#resilience-vs-robustness](value-contribution-matrix.md#resilience-vs-robustness "mention")
-7. [#you-design-how-you-do-your-work](value-contribution-matrix.md#you-design-how-you-do-your-work "mention")
-8. [#givers-and-takers](value-contribution-matrix.md#givers-and-takers "mention")
-9. Cost of recovery (Early Detection and not Prevention)
-10. Cost of amplification (Detection and minimise blast radius)
-11. A degree of foresight (can anticipate in certain environment, and not in uncertainty)
-12. Professional negligence/omission/malpractice&#x20;
-13. Criminal breach of trust
+3. [#the-hierarchy-of-knowledge](value-contribution-matrix.md#the-hierarchy-of-knowledge "mention")
+4. System 1 vs System 2 Thinking [#what-is-system-1-and-system-2-thinking](value-contribution-matrix.md#what-is-system-1-and-system-2-thinking "mention")
+5. Complicated vs Complex [#complicated-vs-complex](value-contribution-matrix.md#complicated-vs-complex "mention")
+6. Novelty vs Repetition [#recipes-vs-chefs](value-contribution-matrix.md#recipes-vs-chefs "mention")
+7. Resilience vs Robustness [#resilience-vs-robustness](value-contribution-matrix.md#resilience-vs-robustness "mention")
+8. [#you-design-how-you-do-your-work](value-contribution-matrix.md#you-design-how-you-do-your-work "mention")
+9. [#givers-and-takers](value-contribution-matrix.md#givers-and-takers "mention")
+10. Cost of recovery (Early Detection and not Prevention)
+11. Cost of amplification (Detection and minimise blast radius)
+12. A degree of foresight (can anticipate in certain environment, and not in uncertainty)
+13. Professional negligence/omission/malpractice&#x20;
+14. Criminal breach of trust
 
 #### The Eisenhower Matrix
 
@@ -43,6 +44,10 @@ This has limited usage in Complex Adaptive System context; because important or 
 Pareto and Gaussian (normal) distributions in Performance and Reward&#x20;
 
 {% embed url="https://anan12.substack.com/p/performance-team-and-individual" %}
+
+#### The Hierarchy of Knowledge&#x20;
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 #### What is System 1 and System 2 Thinking?
 
