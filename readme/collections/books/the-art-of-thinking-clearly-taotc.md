@@ -8,6 +8,8 @@ description: The Art of Thinking Clearly Book by Rolf Dobelli
 
 The Art of Thinking Clearly is a 2013 book by the Swiss writer Rolf Dobelli which describes in short chapters 99 of the most common thinking errors – ranging from cognitive biases to envy and social distortions.
 
+> In December 2017, while wandering around Changi Airport, I visited a WH Smith bookshop. There, I picked up and read the cover of "The Art of Thinking Clearly" (TAoTC). Instantly, I knew it would offer rich language, vocabulary, analogies, and anecdotes to ease my daily decision-making debates. After purchasing it, the book introduced me to numerous valuable resources I now follow. [cognitive-biases-simple-errors](../cognitive-biases-simple-errors/ "mention")
+
 Smart, creative and intelligent people think a lot. Yet they are also fallible to cognitive dissonance, behavioral biases and prejudices. Humans are normally gullible and credulous, no one of us can deny falling prey to reasoning errors or flaws in the reasoning. Humans are fallible and susceptible to making errors, unless they learn to be critical and careful in making sound arguments.
 
 ### **#1 Survivorship bias**
