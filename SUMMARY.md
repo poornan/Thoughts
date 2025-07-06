@@ -17,6 +17,7 @@
     * [Value Contribution Matrix](readme/transformations/value-contribution-matrix.md)
     * [Inherit Universal Values](readme/transformations/inherit-universal-values.md)
     * [Intellectual humility](readme/transformations/intellectual-humility.md)
+    * [Encourage Scientific Inquiry](readme/transformations/encourage-scientific-inquiry.md)
     * [Dynamics](readme/transformations/dynamics.md)
     * [The Boundary Problem](readme/transformations/the-boundary-problem.md)
     * [Canny](readme/transformations/canny.md)
