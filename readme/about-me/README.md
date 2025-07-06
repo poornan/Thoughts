@@ -7,6 +7,27 @@ description: >-
 
 # About Me
 
+> A true warrior doesn’t live to fight.\
+> He lives to transform.
+>
+> It’s not about swinging the sword — it’s about knowing when to sheath it.\
+> Not about winning every war — but choosing the ones that shape the soul.
+>
+> The warrior doesn't chase battles. \
+> But when the storm comes, \
+> he stands where others kneel - not to fight, but to become.
+>
+> The world will throw chaos, doubt, fear — and still, the warrior rises.\
+> Not louder, but clearer.\
+> Not hardened, but wiser.\
+> He doesn’t need a crown or applause.\
+> The fire in his chest is proof enough.
+>
+> You don’t become a warrior by surviving.\
+> You become one by awakening through the fire — and returning with peace.
+>
+> — [@stoicmonktemple](https://www.instagram.com/stoicmonktemple/) [the-warrior-doesnt-chase-battles..md](../external-resources/the-warrior-doesnt-chase-battles..md "mention")
+
 Welcome to my "About Me" page where I share insights into my journey and passions. I believe in the philosophy of lifelong learning and embracing challenges as opportunities for growth. My values are rooted in integrity, creativity, and empathy, guiding my decision-making and interactions. I am seeking a purposeful job that allows me to contribute to society by blending my skills in technology with the arts. Current projects include developing open-source tools to support creative expression and collaborating on initiatives that promote sustainable living and innovation.
 
 #### Objectives
