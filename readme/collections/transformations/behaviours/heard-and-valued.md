@@ -2,9 +2,30 @@
 
 People wants to be heard(see [#background](heard-and-valued.md#background "mention")), question is do they seek to understand before being understood? Do I want to be heard? Are my inputs being heard? (Are my contributions being recognized?)
 
+> We have [a bias for action](https://fs.blog/2015/06/do-something-syndrome/) and, equally important, a bias for the appearance of knowledge.\
+> Because we don’t know, we [talk in abstractions and fog](https://fs.blog/2013/04/the-emperor-has-no-clothes/). The appearance of knowledge becomes our currency.
+
 [the-action-omission-bias.md](../../external-resources/the-action-omission-bias.md "mention") Speaking for the sake of speaking
 
 [#id-16-chauffeur-knowledge](../../books/the-art-of-thinking-clearly-taotc.md#id-16-chauffeur-knowledge "mention")They know everything to offer a critique, remark, comment, opinion, or suggestion, but when asked to do, they say, "I don't know." That's the distinction.
+
+> The real cost of an opinion isn’t having it—it’s doing the work required to earn it. This work is what most people avoid. [Understanding various perspectives helps form an intelligent opinion](https://fs.blog/the-work-required-to-have-an-opinion/)
+
+{% embed url="https://fs.blog/the-work-required-to-have-an-opinion/" %}
+
+> If we really wanted to do the work necessary to hold an opinion we’d have to: read the document from start to finish; talk to anyone you can find about the proposal; listen to arguments from others for and against it; verify the facts; consider our assumptions; talk to someone who has been through something similar before; verify the framing of the problem is not too narrow or wide; make sure the solution solves the problem; etc.
+>
+> So we don’t do the work. Yet we need an opinion for the meeting, or, perhaps more accurately, a sound bite. So we skim the document again looking for something we can support; something that signals we’ve thought about it, despite the fact we haven’t.
+>
+> We turn up at the meeting the next day to discuss the proposal but our only real goal is to find a brief pause in the conversation so we can insert our pre-scripted, fact-deficient, obfuscating generality into the conversation. We do, after-all, have to maintain appearances.
+
+{% embed url="https://fs.blog/opinions-and-organizational-theory/" %}
+
+More importantly these people show absence of candor&#x20;
+
+> Many moments each day where we think one thing, but say something different; where we have an idea that may be of value, but we hold back and say nothing; where we are called upon to give an honest opinion, but decide to say what is easier or what we think others want to hear.
+
+{% embed url="https://fs.blog/the-emperor-has-no-clothes/" %}
 
 ## Background&#x20;
 
