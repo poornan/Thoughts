@@ -1,11 +1,13 @@
 # Table of contents
 
 * [Thoughts, Notes and Collections](README.md)
-  * [Thoughts](readme/thoughts.md)
+  * [Thoughts](readme/thoughts/README.md)
+    * [Outliers](readme/thoughts/outliers.md)
   * [Notes](readme/notes.md)
   * [Collections](readme/collections/README.md)
     * [Books](readme/collections/books/README.md)
       * [The Art of Thinking Clearly (TAoTC)](readme/collections/books/the-art-of-thinking-clearly-taotc.md)
+      * [David and Goliath: Underdogs, Misfits, and the Art of Battling Giants](readme/collections/books/david-and-goliath-underdogs-misfits-and-the-art-of-battling-giants.md)
     * [Transformations](readme/collections/transformations/README.md)
       * [The Echo Chamber of Legacy: Why Good Ideas Die in Old Systems](readme/collections/transformations/legacy-systems-a-culture-of-friction/README.md)
         * [Article](readme/collections/transformations/legacy-systems-a-culture-of-friction/article.md)
