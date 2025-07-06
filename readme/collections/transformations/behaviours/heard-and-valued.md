@@ -4,6 +4,8 @@ People wants to be heard(see [#background](heard-and-valued.md#background "menti
 
 [the-action-omission-bias.md](../../external-resources/the-action-omission-bias.md "mention") Speaking for the sake of speaking
 
+[#id-16-chauffeur-knowledge](../../books/the-art-of-thinking-clearly-taotc.md#id-16-chauffeur-knowledge "mention")They know everything to offer a critique, remark, comment, opinion, or suggestion, but when asked to do, they say, "I don't know." That's the distinction.
+
 ## Background&#x20;
 
 > Feeling "heard" is a fundamental human need, crucial for well-being and healthy relationships. It signifies being acknowledged, understood, and respected by others, fostering a sense of belonging and self-worth. When individuals feel heard, they experience reduced stress, increased self-esteem, and improved connection with others. Conversely, a lack of feeling heard can lead to feelings of insecurity, anxiety, and even depression.&#x20;
