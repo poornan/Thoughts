@@ -8,11 +8,12 @@
 4. Complicated vs Complex [#complicated-vs-complex](value-contribution-matrix.md#complicated-vs-complex "mention")
 5. Novelty vs Repetition [#recipes-vs-chefs](value-contribution-matrix.md#recipes-vs-chefs "mention")
 6. Resilience vs Robustness [#resilience-vs-robustness](value-contribution-matrix.md#resilience-vs-robustness "mention")
-7. Cost of recovery (Early Detection and not Prevention)
-8. Cost of amplification (Detection and minimise blast radius)
-9. A degree of foresight (can anticipate in certain environment, and not in uncertainty)
-10. Professional negligence/omission/malpractice&#x20;
-11. Criminal breach of trust
+7. [#you-design-how-you-do-your-work](value-contribution-matrix.md#you-design-how-you-do-your-work "mention")
+8. Cost of recovery (Early Detection and not Prevention)
+9. Cost of amplification (Detection and minimise blast radius)
+10. A degree of foresight (can anticipate in certain environment, and not in uncertainty)
+11. Professional negligence/omission/malpractice&#x20;
+12. Criminal breach of trust
 
 #### The Eisenhower Matrix
 
@@ -64,6 +65,10 @@ This has limited usage in Complex Adaptive System context; because important or 
 ### Resilience vs Robustness
 
 > Resilience for the purposes of this chapter is defined as the capacity to recover quickly from failure (including the consequences of external change outside of the decision maker’s control), and robustness as the capacity to resist failure. Taking a strategic approach based on resilience also implies the early detection of signs of failure to minimize the energy cost of recovery. The signs of potential success, or success through failure, also require early detection to reduce energy costs of amplification. Robustness under this definition requires a degree of foresight; we have to anticipate the likely range of events with which we will have to deal and that, as we will see, is highly problematic under conditions of uncertainty.
+
+#### You Design How you Do Your Work
+
+{% embed url="https://substack.com/@anan12/note/c-102456723?utm_source=notes-share-action&r=299fmk" %}
 
 {% hint style="info" %}
 While simply being complacent might not be a crime, the consequences of that complacency, such as enabling fraud or negligence leading to injury, could result in criminal charges.
