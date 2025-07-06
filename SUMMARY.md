@@ -29,7 +29,7 @@
     * [Intellectual humility](readme/transformations/intellectual-humility.md)
     * [Encourage Scientific Inquiry](readme/transformations/encourage-scientific-inquiry.md)
     * [Behaviours](readme/transformations/behaviours/README.md)
-      * [Heard vs Valued](readme/transformations/behaviours/heard-vs-valued.md)
+      * [Heard and Valued](readme/transformations/behaviours/heard-and-valued.md)
       * [Nice](readme/transformations/behaviours/nice.md)
       * [Page](readme/transformations/behaviours/page.md)
     * [Dynamics](readme/transformations/dynamics.md)

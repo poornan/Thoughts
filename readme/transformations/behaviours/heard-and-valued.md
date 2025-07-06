@@ -1,6 +1,8 @@
-# Heard vs Valued
+# Heard and Valued
 
-People wants to be heard(see [#background](heard-vs-valued.md#background "mention")), question is do they seek to understand before being understood?
+People wants to be heard(see [#background](heard-and-valued.md#background "mention")), question is do they seek to understand before being understood? Do I want to be heard? Are my inputs being heard? (Are my contributions being recognized?)
+
+
 
 ## Background&#x20;
 
