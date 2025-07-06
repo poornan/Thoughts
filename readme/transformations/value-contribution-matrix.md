@@ -5,17 +5,18 @@
 1. Eisenhower Matrix [#the-eisenhower-matrix](value-contribution-matrix.md#the-eisenhower-matrix "mention")
 2. Pareto and Gaussian distributions [#pareto-and-gaussian-normal-distributions](value-contribution-matrix.md#pareto-and-gaussian-normal-distributions "mention")
 3. [#the-hierarchy-of-knowledge](value-contribution-matrix.md#the-hierarchy-of-knowledge "mention")
-4. System 1 vs System 2 Thinking [#what-is-system-1-and-system-2-thinking](value-contribution-matrix.md#what-is-system-1-and-system-2-thinking "mention")
-5. Complicated vs Complex [#complicated-vs-complex](value-contribution-matrix.md#complicated-vs-complex "mention")
-6. Novelty vs Repetition [#recipes-vs-chefs](value-contribution-matrix.md#recipes-vs-chefs "mention")
-7. Resilience vs Robustness [#resilience-vs-robustness](value-contribution-matrix.md#resilience-vs-robustness "mention")
-8. [#you-design-how-you-do-your-work](value-contribution-matrix.md#you-design-how-you-do-your-work "mention")
-9. [#givers-and-takers](value-contribution-matrix.md#givers-and-takers "mention")
-10. Cost of recovery (Early Detection and not Prevention)
-11. Cost of amplification (Detection and minimise blast radius)
-12. A degree of foresight (can anticipate in certain environment, and not in uncertainty)
-13. Professional negligence/omission/malpractice&#x20;
-14. Criminal breach of trust
+4. [#the-six-levels-of-customer-service-uplifting-service](value-contribution-matrix.md#the-six-levels-of-customer-service-uplifting-service "mention")
+5. System 1 vs System 2 Thinking [#what-is-system-1-and-system-2-thinking](value-contribution-matrix.md#what-is-system-1-and-system-2-thinking "mention")
+6. Complicated vs Complex [#complicated-vs-complex](value-contribution-matrix.md#complicated-vs-complex "mention")
+7. Novelty vs Repetition [#recipes-vs-chefs](value-contribution-matrix.md#recipes-vs-chefs "mention")
+8. Resilience vs Robustness [#resilience-vs-robustness](value-contribution-matrix.md#resilience-vs-robustness "mention")
+9. [#you-design-how-you-do-your-work](value-contribution-matrix.md#you-design-how-you-do-your-work "mention")
+10. [#givers-and-takers](value-contribution-matrix.md#givers-and-takers "mention")
+11. Cost of recovery (Early Detection and not Prevention)
+12. Cost of amplification (Detection and minimise blast radius)
+13. A degree of foresight (can anticipate in certain environment, and not in uncertainty)
+14. Professional negligence/omission/malpractice&#x20;
+15. Criminal breach of trust
 
 #### The Eisenhower Matrix
 
@@ -48,6 +49,34 @@ Pareto and Gaussian (normal) distributions in Performance and Reward&#x20;
 #### The Hierarchy of Knowledge&#x20;
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+#### The Six Levels of Customer Service (Uplifting Service)
+
+> 1. Criminal service
+>
+> Criminal service is really bad. It’s service that violates even minimum expectations, the kind of service that your customers remember never to use again, and are angry enough to call you and complain about.
+>
+> 2. Basic Service
+>
+> Basic service is disappointing. It’s the point of frustration that can turn into anger—but when it’s over the customer is not disappointed enough to complain. However, he will tell his friends, and will remember not to call you for that kind of service again.
+>
+> 3. Expected Service
+>
+> Expected service is nothing special. It’s the average, the usual, the norm. The customer might come back to you, but only if no better options exist.
+>
+> 4. Desired Service
+>
+> Desired service is what your customers hope for and prefer. They’ll do business with your organization again because you do things for them just the way they like it.
+>
+> 5. Surprising Service
+>
+> Surprising service is something special, like an unexpected gift. It gives your customers more than they expected. This makes you an organization that customers enjoy and will come back to again and again.
+>
+> 6. Unbelievable Service
+>
+> Unbelievable service is astonishingly fantastic. This is the level of service your customers can’t forget, the legendary treatment they will tell all their friends about. Can you see where your service stands today? Great. Now consider this: Each level of service is just like a step in a staircase. Companies that truly understand the power of great service are continuously looking for ways to climb to the next level. But here’s the rub: Moving up is not another step on a solid staircase; it’s like trying to climb up a down escalator. Each level is consistently sliding downward because your competitors are also working to raise their service. One day you offer surprising service, but the next day everyone in your industry is doing the same thing—oops, you just slipped down to Desired. Wait another day, and oops, you just fell to Expected. The next thing you know, you’re the cassette player of service trying to compete with the iPod. Keep your service stepping up, or find yourself lying in the dust. How can you step up your service? Three ways. First, keep service improvement as a key focus of your business. Don’t just hit the service target; aim for one or two steps higher. Next, ask your customers what else they would like, appreciate, or value. What are you not yet doing that they would love you for if you did? Finally, benchmark your competition and those outside your industry. What’s new in one arena soon finds its way to others. Read the original article about the six levels of customer service at
+>
+> [https://www.ronkaufman.com/blog/the-six-levels-of-customer-service/](https://www.ronkaufman.com/blog/the-six-levels-of-customer-service/)
 
 #### What is System 1 and System 2 Thinking?
 
