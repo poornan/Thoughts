@@ -5,7 +5,7 @@
 1. Eisenhower Matrix
 2. System 1 vs System 2 Thinking&#x20;
 3. [#complicated-vs-complex](value-contribution-matrix.md#complicated-vs-complex "mention")
-4. Novelty vs Repetition
+4. Novelty vs Repetition (Recipe Book)
 5. Resilience vs Robustness
 6. Cost of recovery (Early Detection and not Prevention)
 7. Cost of amplification (Detection and minimise blast radius)
