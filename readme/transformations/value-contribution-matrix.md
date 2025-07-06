@@ -1,6 +1,6 @@
 # Value Contribution Matrix
 
-### Key Aspects
+## Key Aspects
 
 1. Eisenhower Matrix [#the-eisenhower-matrix](value-contribution-matrix.md#the-eisenhower-matrix "mention")
 2. Pareto and Gaussian distributions [#pareto-and-gaussian-normal-distributions](value-contribution-matrix.md#pareto-and-gaussian-normal-distributions "mention")
@@ -18,7 +18,7 @@
 14. Professional negligence/omission/malpractice&#x20;
 15. Criminal breach of trust
 
-#### The Eisenhower Matrix
+### The Eisenhower Matrix
 
 {% hint style="info" %}
 This has limited usage in Complex Adaptive System context; because important or not is decided using Gaussian distribution, more on [#pareto-and-gaussian-normal-distributions](value-contribution-matrix.md#pareto-and-gaussian-normal-distributions "mention")
@@ -28,7 +28,7 @@ This has limited usage in Complex Adaptive System context; because important or 
 >
 > [https://www.eisenhower.me/eisenhower-matrix/](https://www.eisenhower.me/eisenhower-matrix/)
 
-#### Pareto and Gaussian (normal) distributions
+### Pareto and Gaussian (normal) distributions
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><a href="https://hbr.org/data-visuals/2021/12/a-pareto-distribution-vs-a-gaussian-curve">https://hbr.org/data-visuals/2021/12/a-pareto-distribution-vs-a-gaussian-curve</a></p></figcaption></figure>
 
@@ -46,11 +46,11 @@ Pareto and Gaussian (normal) distributions in Performance and Reward&#x20;
 
 {% embed url="https://anan12.substack.com/p/performance-team-and-individual" %}
 
-#### The Hierarchy of Knowledge&#x20;
+### The Hierarchy of Knowledge&#x20;
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-#### The Six Levels of Customer Service (Uplifting Service)
+### The Six Levels of Customer Service (Uplifting Service)
 
 > 1. Criminal service
 >
@@ -78,7 +78,7 @@ Pareto and Gaussian (normal) distributions in Performance and Reward&#x20;
 >
 > [https://www.ronkaufman.com/blog/the-six-levels-of-customer-service/](https://www.ronkaufman.com/blog/the-six-levels-of-customer-service/)
 
-#### What is System 1 and System 2 Thinking?
+### What is System 1 and System 2 Thinking?
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -91,11 +91,11 @@ Pareto and Gaussian (normal) distributions in Performance and Reward&#x20;
 >
 > [https://thedecisionlab.com/reference-guide/philosophy/system-1-and-system-2-thinking](https://thedecisionlab.com/reference-guide/philosophy/system-1-and-system-2-thinking)
 
-#### Complicated vs Complex
+### Complicated vs Complex
 
 > In the context of strategy, the key distinction within Cynefin is that between systems that are complicated and those that are complex. The former can be engineered and diagnosis can be separated from intervention, the latter cannot and all diagnostic attempts are a priori interventions and vice versa.
 
-#### Recipes vs Chefs&#x20;
+### Recipes vs Chefs&#x20;
 
 > A simple metaphor will allow us to understand the danger of the case based, structured approaches that have dominated the last few decades; namely that of the recipe book user and the chef. If you employ a recipe book user to cook a meal for you, then your kitchen will have to be engineered to match a standard design. All the ingredients will be lined up in appropriate sized bowls and, as long as nothing unexpected happens you will get a reasonable meal. The Chef on the other hand enters your kitchen and creates a wonderful meal from whatever happens to be lying around. This is not to say that recipe books do not have utility, or that the chef will not use them from time to time. The point is that the chef is resilient and adaptive in changing contexts; the recipe book is not. The reason for this is that, to reference Aristotle, the chef has both _sophia_ and _pronesis_, the ability to reflect and the knowledge built through a long apprenticeship and an understanding of the basic principles of taste and nutrition; wisdom both reflective and practical, institutionalized in social practice and expectation.
 >
@@ -107,17 +107,17 @@ Pareto and Gaussian (normal) distributions in Performance and Reward&#x20;
 
 > Resilience for the purposes of this chapter is defined as the capacity to recover quickly from failure (including the consequences of external change outside of the decision maker’s control), and robustness as the capacity to resist failure. Taking a strategic approach based on resilience also implies the early detection of signs of failure to minimize the energy cost of recovery. The signs of potential success, or success through failure, also require early detection to reduce energy costs of amplification. Robustness under this definition requires a degree of foresight; we have to anticipate the likely range of events with which we will have to deal and that, as we will see, is highly problematic under conditions of uncertainty.
 
-#### You Design How you Do Your Work
+### You Design How you Do Your Work
 
 The larger point I wanted to make is that you don’t just do your work, you design how you do your work — Kent Beck
 
 {% embed url="https://substack.com/@anan12/note/c-102456723?utm_source=notes-share-action&r=299fmk" %}
 
-#### Givers and Takers
+### Givers and Takers
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-> ## Why do I highly value disagreeable givers?
+> #### Why do I highly value disagreeable givers?
 >
 > When I think of the _irreplaceable_ peers I’ve had over the years, what stands out to me is that every one of them regularly disagreed with me.
 >
