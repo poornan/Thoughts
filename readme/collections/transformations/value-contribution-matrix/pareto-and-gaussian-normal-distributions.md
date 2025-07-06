@@ -2,7 +2,7 @@
 
 ### Pareto and Gaussian (normal) distributions
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><a href="https://hbr.org/data-visuals/2021/12/a-pareto-distribution-vs-a-gaussian-curve">https://hbr.org/data-visuals/2021/12/a-pareto-distribution-vs-a-gaussian-curve</a></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><a href="https://hbr.org/data-visuals/2021/12/a-pareto-distribution-vs-a-gaussian-curve">https://hbr.org/data-visuals/2021/12/a-pareto-distribution-vs-a-gaussian-curve</a></p></figcaption></figure>
 
 > Dave Snowden uses the distinction between Pareto and Gaussian (normal) distributions to illustrate different dynamics in complex systems. He highlights that while many business and management approaches assume a Gaussian distribution (with predictable outcomes and a focus on averages), real-world situations, particularly in complex or chaotic domains, often follow a Pareto distribution, characterized by a few high-impact events and many minor ones.
 >

@@ -12,11 +12,11 @@ description: In short, trust is the willingness to be vulnerable to another part
 see [Trust-Refs](../external-resources/trust-refs.md)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>For Patrick Lencioni, trust is the foundation of team performance (or at the root of a dysfunctional team)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>For Patrick Lencioni, trust is the foundation of team performance (or at the root of a dysfunctional team)</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 * **Credibility** = whether you perceive the other person as credible (as in, how I perceive their competence/capability in relation to what they are doing or saying, eg Do I trust what they say on a given topic?), &#x20;
 * **Reliability** = whether you perceive the other person as reliable (eg Do I trust that they will do what they say they will do?),

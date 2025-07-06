@@ -38,7 +38,7 @@ Remember, be consistent and reliable and keep all promises and commitments.
 
 Purpose and money: take recording&#x20;
 
-[the-warrior-doesnt-chase-battles..md](../readme/external-resources/the-warrior-doesnt-chase-battles..md "mention")
+[the-warrior-doesnt-chase-battles..md](../readme/collections/external-resources/the-warrior-doesnt-chase-battles..md "mention")
 
 ***
 

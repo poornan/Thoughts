@@ -2,7 +2,7 @@
 
 ### Givers and Takers
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 > #### Why do I highly value disagreeable givers?
 >
