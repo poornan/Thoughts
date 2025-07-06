@@ -2,14 +2,14 @@
 
 ## Key Aspects
 
-1. Eisenhower Matrix [#the-eisenhower-matrix](value-contribution-matrix.md#the-eisenhower-matrix "mention")
-2. Pareto and Gaussian distributions [#pareto-and-gaussian-normal-distributions](value-contribution-matrix.md#pareto-and-gaussian-normal-distributions "mention")
+1. [#the-eisenhower-matrix](value-contribution-matrix.md#the-eisenhower-matrix "mention")
+2. [#pareto-and-gaussian-normal-distributions](value-contribution-matrix.md#pareto-and-gaussian-normal-distributions "mention")
 3. [#the-hierarchy-of-knowledge](value-contribution-matrix.md#the-hierarchy-of-knowledge "mention")
 4. [#the-six-levels-of-customer-service-uplifting-service](value-contribution-matrix.md#the-six-levels-of-customer-service-uplifting-service "mention")
-5. System 1 vs System 2 Thinking [#what-is-system-1-and-system-2-thinking](value-contribution-matrix.md#what-is-system-1-and-system-2-thinking "mention")
-6. Complicated vs Complex [#complicated-vs-complex](value-contribution-matrix.md#complicated-vs-complex "mention")
+5. [#what-is-system-1-and-system-2-thinking](value-contribution-matrix.md#what-is-system-1-and-system-2-thinking "mention")
+6. [#complicated-vs-complex](value-contribution-matrix.md#complicated-vs-complex "mention")
 7. Novelty vs Repetition [#recipes-vs-chefs](value-contribution-matrix.md#recipes-vs-chefs "mention")
-8. Resilience vs Robustness [#resilience-vs-robustness](value-contribution-matrix.md#resilience-vs-robustness "mention")
+8. [#resilience-vs-robustness](value-contribution-matrix.md#resilience-vs-robustness "mention")
 9. [#you-design-how-you-do-your-work](value-contribution-matrix.md#you-design-how-you-do-your-work "mention")
 10. [#givers-and-takers](value-contribution-matrix.md#givers-and-takers "mention")
 11. Cost of recovery (Early Detection and not Prevention)
