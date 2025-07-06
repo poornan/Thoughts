@@ -51,3 +51,4 @@
     * [Dysfunctional cross-functional teams](readme/external-resources/dysfunctional-cross-functional-teams.md)
     * [Trust-Refs](readme/external-resources/trust-refs.md)
     * [Privilege-refs](readme/external-resources/privilege-refs.md)
+    * [The warrior doesn't chase battles.](readme/external-resources/the-warrior-doesnt-chase-battles..md)
