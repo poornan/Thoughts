@@ -9,11 +9,12 @@
 5. Novelty vs Repetition [#recipes-vs-chefs](value-contribution-matrix.md#recipes-vs-chefs "mention")
 6. Resilience vs Robustness [#resilience-vs-robustness](value-contribution-matrix.md#resilience-vs-robustness "mention")
 7. [#you-design-how-you-do-your-work](value-contribution-matrix.md#you-design-how-you-do-your-work "mention")
-8. Cost of recovery (Early Detection and not Prevention)
-9. Cost of amplification (Detection and minimise blast radius)
-10. A degree of foresight (can anticipate in certain environment, and not in uncertainty)
-11. Professional negligence/omission/malpractice&#x20;
-12. Criminal breach of trust
+8.
+9. Cost of recovery (Early Detection and not Prevention)
+10. Cost of amplification (Detection and minimise blast radius)
+11. A degree of foresight (can anticipate in certain environment, and not in uncertainty)
+12. Professional negligence/omission/malpractice&#x20;
+13. Criminal breach of trust
 
 #### The Eisenhower Matrix
 
@@ -36,6 +37,8 @@ This has limited usage in Complex Adaptive System context; because important or 
 > In a Pareto world, strategies cannot be based solely on probability assessments. Safe-to-fail experiments and understanding the dynamics of the system are more appropriate.
 >
 > — Google AO Overview for '"Pareto distribution and Gaussian distribution snowden"
+
+{% embed url="https://substack.com/home/post/p-159303339" %}
 
 #### What is System 1 and System 2 Thinking?
 
