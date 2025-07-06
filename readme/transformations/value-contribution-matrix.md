@@ -8,7 +8,7 @@
 4. [#the-six-levels-of-customer-service-uplifting-service](value-contribution-matrix.md#the-six-levels-of-customer-service-uplifting-service "mention")
 5. [#what-is-system-1-and-system-2-thinking](value-contribution-matrix.md#what-is-system-1-and-system-2-thinking "mention")
 6. [#complicated-vs-complex](value-contribution-matrix.md#complicated-vs-complex "mention")
-7. Novelty vs Repetition [#recipes-vs-chefs](value-contribution-matrix.md#recipes-vs-chefs "mention")
+7. Repetition vs Novelty [#recipes-vs-chefs](value-contribution-matrix.md#recipes-vs-chefs "mention")
 8. [#resilience-vs-robustness](value-contribution-matrix.md#resilience-vs-robustness "mention")
 9. [#you-design-how-you-do-your-work](value-contribution-matrix.md#you-design-how-you-do-your-work "mention")
 10. [#givers-and-takers](value-contribution-matrix.md#givers-and-takers "mention")
