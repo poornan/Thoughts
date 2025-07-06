@@ -1,8 +1,10 @@
 # Value Contribution Matrix
 
+### Key Aspects
+
 1. Eisenhower Matrix
 2. System 1 vs System 2 Thinking&#x20;
-3. Complicated vs Complex.
+3. [#complicated-vs-complex](value-contribution-matrix.md#complicated-vs-complex "mention")
 4. Novelty vs Repetition
 5. Resilience vs Robustness
 6. Cost of recovery (Early Detection and not Prevention)
@@ -11,7 +13,7 @@
 9. Professional negligence/omission/malpractice&#x20;
 10. Criminal breach of trust
 
-#### &#x20;
+#### Complicated vs Complex&#x20;
 
 > A simple metaphor will allow us to understand the danger of the case based, structured approaches that have dominated the last few decades; namely that of the recipe book user and the chef. If you employ a recipe book user to cook a meal for you, then your kitchen will have to be engineered to match a standard design. All the ingredients will be lined up in appropriate sized bowls and, as long as nothing unexpected happens you will get a reasonable meal. The Chef on the other hand enters your kitchen and creates a wonderful meal from whatever happens to be lying around. This is not to say that recipe books do not have utility, or that the chef will not use them from time to time. The point is that the chef is resilient and adaptive in changing contexts; the recipe book is not. The reason for this is that, to reference Aristotle, the chef has both _sophia_ and _pronesis_, the ability to reflect and the knowledge built through a long apprenticeship and an understanding of the basic principles of taste and nutrition; wisdom both reflective and practical, institutionalized in social practice and expectation.
 >
