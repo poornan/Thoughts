@@ -4,6 +4,7 @@
   * [Thoughts](readme/thoughts.md)
   * [Notes](readme/notes.md)
   * [Collections](readme/collections/README.md)
+    * [Books](readme/collections/books.md)
     * [Transformations](readme/collections/transformations/README.md)
       * [The Echo Chamber of Legacy: Why Good Ideas Die in Old Systems](readme/collections/transformations/legacy-systems-a-culture-of-friction/README.md)
         * [Article](readme/collections/transformations/legacy-systems-a-culture-of-friction/article.md)
