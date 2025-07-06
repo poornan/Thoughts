@@ -2,7 +2,7 @@
 
 People wants to be heard(see [#background](heard-and-valued.md#background "mention")), question is do they seek to understand before being understood? Do I want to be heard? Are my inputs being heard? (Are my contributions being recognized?)
 
-
+[the-action-omission-bias.md](../../external-resources/the-action-omission-bias.md "mention") Speaking for the sake of speaking
 
 ## Background&#x20;
 
