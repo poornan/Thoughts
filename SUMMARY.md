@@ -14,7 +14,7 @@
     * [Accountability](readme/transformations/accountability.md)
     * [Collaborator](readme/transformations/collaborator.md)
     * [Privilege](readme/transformations/privilege.md)
-    * [Value Contribution Matrix](readme/transformations/value-contribution-matrix/README.md)
+    * [Value Contribution Matrix](readme/transformations/value-contribution-matrix.md)
       * [The Eisenhower Matrix](readme/transformations/value-contribution-matrix/the-eisenhower-matrix.md)
       * [Pareto and Gaussian (normal) distributions](readme/transformations/value-contribution-matrix/pareto-and-gaussian-normal-distributions.md)
       * [The Hierarchy of Knowledge](readme/transformations/value-contribution-matrix/the-hierarchy-of-knowledge.md)
