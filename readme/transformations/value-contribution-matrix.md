@@ -1,14 +1,15 @@
 # Value Contribution Matrix
 
 1. Eisenhower Matrix
-2. Complicated vs Complex.
-3. Novelty vs Repetition
-4. Resilience vs Robustness
-5. Cost of recovery(Early Detection and not Prevention)
-6. Cost of amplification (Detection and minimise blast radius)
-7. A degree of foresight(can anticipate in certain environment, and not in uncertainty)
-8. Professional negligence/omission/malpractice&#x20;
-9. Criminal breach of trust
+2. System 1 vs System 2 Thinking&#x20;
+3. Complicated vs Complex.
+4. Novelty vs Repetition
+5. Resilience vs Robustness
+6. Cost of recovery (Early Detection and not Prevention)
+7. Cost of amplification (Detection and minimise blast radius)
+8. A degree of foresight (can anticipate in certain environment, and not in uncertainty)
+9. Professional negligence/omission/malpractice&#x20;
+10. Criminal breach of trust
 
 #### &#x20;
 
