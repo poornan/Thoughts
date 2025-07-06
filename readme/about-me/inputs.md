@@ -36,7 +36,7 @@ Remember, be consistent and reliable and keep all promises and commitments.
 [https://substack.com/home/post/p-145662643](https://substack.com/home/post/p-145662643)
 {% endhint %}
 
-
+Purpuse and money: take recoding&#x20;
 
 ***
 
