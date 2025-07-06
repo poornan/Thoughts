@@ -1,8 +1,6 @@
 # Table of contents
 
 * [Thoughts, Notes and Collections](README.md)
-  * [About Me](readme/about-me/README.md)
-    * [Inputs](readme/about-me/inputs.md)
   * [Transformations](readme/transformations/README.md)
     * [The Echo Chamber of Legacy: Why Good Ideas Die in Old Systems](readme/transformations/legacy-systems-a-culture-of-friction/README.md)
       * [Article](readme/transformations/legacy-systems-a-culture-of-friction/article.md)
@@ -52,3 +50,5 @@
     * [Trust-Refs](readme/external-resources/trust-refs.md)
     * [Privilege-refs](readme/external-resources/privilege-refs.md)
     * [The warrior doesn't chase battles.](readme/external-resources/the-warrior-doesnt-chase-battles..md)
+* [About Me](about-me/README.md)
+  * [Inputs](about-me/inputs.md)

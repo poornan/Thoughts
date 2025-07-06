@@ -26,7 +26,7 @@ description: >-
 > You don’t become a warrior by surviving.\
 > You become one by awakening through the fire — and returning with peace.
 >
-> — [@stoicmonktemple](https://www.instagram.com/stoicmonktemple/) [the-warrior-doesnt-chase-battles..md](../external-resources/the-warrior-doesnt-chase-battles..md "mention")
+> — [@stoicmonktemple](https://www.instagram.com/stoicmonktemple/) [the-warrior-doesnt-chase-battles..md](../readme/external-resources/the-warrior-doesnt-chase-battles..md "mention")
 
 Welcome to my "About Me" page where I share insights into my journey and passions. I believe in the philosophy of lifelong learning and embracing challenges as opportunities for growth. My values are rooted in integrity, creativity, and empathy, guiding my decision-making and interactions. I am seeking a purposeful job that allows me to contribute to society by blending my skills in technology with the arts. Current projects include developing open-source tools to support creative expression and collaborating on initiatives that promote sustainable living and innovation.
 
