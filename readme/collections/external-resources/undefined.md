@@ -2,11 +2,11 @@
 
 {% tabs %}
 {% tab title="Tamil(Original Quote)" %}
-அடிக்கின்ற காற்றில் காகமும் பறக்கும் காகிதமும் பறக்கும், காற்று நிற்கும் வரை பொறு!
+அடிக்கிற காற்றில் காகமும் பறக்கும் காகிதமும் பறக்கும்; காற்று நின்றால் தான் தெரியும் எது காகமும் எது காகிதம் என்று!
 {% endtab %}
 
 {% tab title="English Tranlation" %}
-In the blowing wind, both the crow and the paper will fly; wait until the wind stops.
+In the blowing wind, both the crow and the paper will fly; only when the wind stops will you know what's the crow and what's the paper!
 {% endtab %}
 {% endtabs %}
 
