@@ -11,7 +11,7 @@
       * [The Art of Thinking Clearly (TAoTC)](readme/collections/books/the-art-of-thinking-clearly-taotc.md)
       * [David and Goliath: Underdogs, Misfits, and the Art of Battling Giants](readme/collections/books/david-and-goliath-underdogs-misfits-and-the-art-of-battling-giants.md)
     * [Projects](readme/collections/projects/README.md)
-      * [Regional Procurement](readme/collections/projects/regional-procurement.md)
+      * [Fulcrum](readme/collections/projects/fulcrum.md)
       * [Serendip](readme/collections/projects/serendip.md)
     * [Transformations](readme/collections/transformations/README.md)
       * [The Echo Chamber of Legacy: Why Good Ideas Die in Old Systems](readme/collections/transformations/legacy-systems-a-culture-of-friction/README.md)
