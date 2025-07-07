@@ -2,15 +2,15 @@
 description: both the crow and the paper will fly
 ---
 
-# காகமும் பறக்கும் காகிதமும் பறக்கும்
+# Crow and the Paper
 
 {% tabs %}
 {% tab title="Tamil(Original Quote)" %}
-அடிக்கிற காற்றில் காகமும் பறக்கும் காகிதமும் பறக்கும்; காற்று நின்றால் தான் தெரியும் எது காகமும் எது காகிதம் என்று!
+_அடிக்கிற காற்றில் காகமும் பறக்கும் காகிதமும் பறக்கும்; காற்று நின்றால் தான் தெரியும் எது காகம் எது காகிதம் என்று!_
 {% endtab %}
 
 {% tab title="English Tranlation" %}
-In the blowing wind, both the crow and the paper will fly; only when the wind stops will you know what's the crow and what's the paper!
+_In the blowing wind, both a crow and a paper fly; only when the wind stops will you know which is crow, which is paper!_
 {% endtab %}
 {% endtabs %}
 
