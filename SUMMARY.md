@@ -5,6 +5,7 @@
     * [Outliers](readme/thoughts/outliers.md)
   * [Notes](readme/notes/README.md)
     * [Reading](readme/notes/reading.md)
+    * [richards-tech](readme/notes/richards-tech.md)
   * [Collections](readme/collections/README.md)
     * [Books](readme/collections/books/README.md)
       * [The Art of Thinking Clearly (TAoTC)](readme/collections/books/the-art-of-thinking-clearly-taotc.md)
