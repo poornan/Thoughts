@@ -2,7 +2,7 @@
 description: Regional Procurement
 ---
 
-# Fulcrum
+# 1. Project—Fulcrum
 
 Singapore's Government Electronic Business (GeBIZ) was a pioneering procurement system for the internet era. However, technology and strategy have advanced through several generations since its inception. This evolution represents more than just a name change; it signifies a fundamental shift in how we achieve our goals.
 
@@ -60,8 +60,8 @@ The best name depends on the desired emphasis:
 * For a clear, direct, and easily understood name: GovBridge is highly effective.
 * For a modern, tech-focused brand: Kinetic or AURA would be very fitting.
 
-## Chosen: Fulcrum
+## 0. Fulcrum
 
-#### Alternative 0: AURA
+#### 1. AURA(Allied & Unified Regional Access)
 
-Alternative 1:Covenant; I have already been chosen for another grassroots social initiative.
+2 Covenant; I have already been chosen for another grassroots social initiative.
