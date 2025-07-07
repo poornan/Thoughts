@@ -62,4 +62,6 @@ The best name depends on the desired emphasis:
 
 ## Chosen: Fulcrum
 
-#### Alternative: AURA
+#### Alternative 0: AURA
+
+Alternative 1:Covenant; I have already been chosen for another grassroots social initiative.
