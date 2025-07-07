@@ -64,4 +64,4 @@ The best name depends on the desired emphasis:
 
 #### 1. AURA(Allied & Unified Regional Access)
 
-2 Covenant; I have already been chosen for another grassroots social initiative.
+2 Covenant; but, I have already been chosen for another grassroots social initiative.
