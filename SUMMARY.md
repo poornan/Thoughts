@@ -61,6 +61,6 @@
       * [Trust-Refs](readme/collections/external-resources/trust-refs.md)
       * [Privilege-refs](readme/collections/external-resources/privilege-refs.md)
       * [The warrior doesn't chase battles.](readme/collections/external-resources/the-warrior-doesnt-chase-battles..md)
-      * [Crow and the Paper](readme/collections/external-resources/crow-and-the-paper.md)
+      * [Crow and a Paper](readme/collections/external-resources/crow-and-a-paper.md)
 * [About Me](about-me/README.md)
   * [Inputs](about-me/inputs.md)
