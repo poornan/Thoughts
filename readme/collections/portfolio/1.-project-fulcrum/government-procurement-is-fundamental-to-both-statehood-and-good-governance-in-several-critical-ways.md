@@ -4,7 +4,7 @@ description: https://claude.ai/ Reply
 
 # Government procurement is fundamental to both statehood and good governance in several critical ways
 
-Government procurement is fundamental to both statehood and good governance in several critical ways:
+### Government procurement is fundamental to both statehood and good governance in several critical ways:
 
 ### Foundation of State Capacity
 
