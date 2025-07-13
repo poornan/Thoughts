@@ -12,9 +12,9 @@ description: In short, trust is the willingness to be vulnerable to another part
 see [Trust-Refs](../external-resources/trust-refs.md)
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>For Patrick Lencioni, trust is the foundation of team performance (or at the root of a dysfunctional team)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>For Patrick Lencioni, trust is the foundation of team performance (or at the root of a dysfunctional team)</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
