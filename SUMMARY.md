@@ -15,6 +15,7 @@
     * [Portfolio](readme/collections/projects/README.md)
       * [1. Project—Fulcrum](readme/collections/portfolio/1.-project-fulcrum/README.md)
         * [Digital Government Procurement: Transforming Governance for 700 Million Lives](readme/collections/portfolio/1.-project-fulcrum/digital-government-procurement-transforming-governance-for-700-million-lives.md)
+        * [Government procurement is fundamental to both statehood and good governance in several critical ways](readme/collections/portfolio/1.-project-fulcrum/government-procurement-is-fundamental-to-both-statehood-and-good-governance-in-several-critical-ways.md)
       * [2. Project—Serendip](readme/collections/projects/serendip.md)
     * [Transformations](readme/collections/transformations/README.md)
       * [The Echo Chamber of Legacy: Why Good Ideas Die in Old Systems](readme/collections/transformations/legacy-systems-a-culture-of-friction/README.md)
