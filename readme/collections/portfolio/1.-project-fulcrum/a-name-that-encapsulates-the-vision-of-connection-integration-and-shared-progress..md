@@ -1,10 +1,4 @@
----
-description: >-
-  A name that encapsulates this vision of connection, integration, and shared
-  progress.
----
-
-# The best name for this project
+# A name that encapsulates the vision of connection, integration, and shared progress.
 
 ## Name
 
