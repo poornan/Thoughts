@@ -1,6 +1,6 @@
 ---
 description: >-
-  —a name that encapsulates this vision of connection, integration, and shared
+  a name that encapsulates this vision of connection, integration, and shared
   progress.
 ---
 
