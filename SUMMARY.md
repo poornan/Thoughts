@@ -75,5 +75,6 @@
       * [#PlatformStrategy doesn't focus on network effects but rather on building internal platforms](readme/collections/external-resources/platformstrategy-doesnt-focus-on-network-effects-but-rather-on-building-internal-platforms.md)
       * [Holub's Corollary to Conway's Law:](readme/collections/external-resources/holubs-corollary-to-conways-law.md)
       * [Complex System Frameworks](readme/collections/external-resources/complex-system-frameworks.md)
+      * [Richard Feynman: Can Machines Think?](readme/collections/external-resources/richard-feynman-can-machines-think.md)
 * [About Me](about-me/README.md)
   * [Inputs](about-me/inputs.md)
