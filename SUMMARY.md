@@ -20,6 +20,7 @@
         * [Resources](readme/collections/portfolio/1.-project-fulcrum/resources/README.md)
           * [WTO Procurement Act Analysis](readme/collections/portfolio/1.-project-fulcrum/resources/wto-procurement-act-analysis.md)
           * [Singapore's Procurement Act Origins](readme/collections/portfolio/1.-project-fulcrum/resources/singapores-procurement-act-origins.md)
+          * [Sri Lanka Road Cost Analysis](readme/collections/portfolio/1.-project-fulcrum/resources/sri-lanka-road-cost-analysis.md)
       * [2. Project—Serendip](readme/collections/projects/serendip.md)
     * [Transformations](readme/collections/transformations/README.md)
       * [The Echo Chamber of Legacy: Why Good Ideas Die in Old Systems](readme/collections/transformations/legacy-systems-a-culture-of-friction/README.md)
