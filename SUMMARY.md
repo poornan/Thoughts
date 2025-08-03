@@ -3,6 +3,7 @@
 * [Thoughts, Notes and Collections](README.md)
   * [Thoughts](readme/thoughts/README.md)
     * [Outliers](readme/thoughts/outliers.md)
+    * [GP](readme/thoughts/gp.md)
   * [Notes](readme/notes/README.md)
     * [Reading](readme/notes/reading.md)
     * [richards-tech](readme/notes/richards-tech.md)
