@@ -24,6 +24,7 @@
           * [Sri Lanka, Singapore: GDP Expenditure](readme/collections/portfolio/1.-project-fulcrum/resources/sri-lanka-singapore-gdp-expenditure.md)
           * [e‐Procurement Reference Guide](readme/collections/portfolio/1.-project-fulcrum/resources/e-procurement-reference-guide.md)
           * [Enterprise Architecture = Architecting the Enterprise?](readme/collections/portfolio/1.-project-fulcrum/resources/enterprise-architecture-architecting-the-enterprise.md)
+          * [Architects live in the First Derivative](readme/collections/projects/1.-project-fulcrum/resources/architects-live-in-the-first-derivative.md)
           * [DECISION MAKING – AHP/ANP](readme/collections/portfolio/1.-project-fulcrum/resources/decision-making-ahp-anp.md)
           * [Decision Framework for AI](readme/collections/portfolio/1.-project-fulcrum/resources/decision-framework-for-ai.md)
           * [Clarity Come from Action](readme/collections/portfolio/1.-project-fulcrum/resources/clarity-come-from-action.md)
