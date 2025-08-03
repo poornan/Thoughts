@@ -26,6 +26,7 @@
           * [Enterprise Architecture = Architecting the Enterprise?](readme/collections/portfolio/1.-project-fulcrum/resources/enterprise-architecture-architecting-the-enterprise.md)
           * [DECISION MAKING – AHP/ANP](readme/collections/portfolio/1.-project-fulcrum/resources/decision-making-ahp-anp.md)
           * [Decision Framework for AI](readme/collections/portfolio/1.-project-fulcrum/resources/decision-framework-for-ai.md)
+          * [Clarity come from action](readme/collections/portfolio/1.-project-fulcrum/resources/clarity-come-from-action.md)
       * [2. Project—Serendip](readme/collections/projects/serendip.md)
     * [Transformations](readme/collections/transformations/README.md)
       * [The Echo Chamber of Legacy: Why Good Ideas Die in Old Systems](readme/collections/transformations/legacy-systems-a-culture-of-friction/README.md)
