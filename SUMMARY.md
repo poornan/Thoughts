@@ -18,6 +18,7 @@
         * [A name that encapsulates the vision of connection, integration, and shared progress.](readme/collections/portfolio/1.-project-fulcrum/the-best-name-for-this-project.md)
         * [Digital Government Procurement: Transforming Governance for 700 Million Lives](readme/collections/portfolio/1.-project-fulcrum/digital-government-procurement-transforming-governance-for-700-million-lives.md)
         * [Government procurement is fundamental to both statehood and good governance in several critical ways](readme/collections/portfolio/1.-project-fulcrum/government-procurement-is-fundamental-to-both-statehood-and-good-governance-in-several-critical-ways.md)
+        * [Fundamental forces](readme/collections/projects/1.-project-fulcrum/fundamental-forces.md)
         * [Resources](readme/collections/portfolio/1.-project-fulcrum/resources/README.md)
           * [WTO Procurement Act Analysis](readme/collections/portfolio/1.-project-fulcrum/resources/wto-procurement-act-analysis.md)
           * [Singapore's Procurement Act Origins](readme/collections/portfolio/1.-project-fulcrum/resources/singapores-procurement-act-origins.md)
