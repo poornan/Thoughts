@@ -2,7 +2,7 @@
 
 ### Adaptive System, Resiliency, IT as backbone.&#x20;
 
-#### Resiliency
+#### Resiliency (Rigid Brittle deform accommodate)
 
 Why a glass brittle but not a metal&#x20;
 
