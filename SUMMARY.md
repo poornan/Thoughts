@@ -8,6 +8,8 @@
     * [Reading](readme/notes/reading.md)
     * [richards-tech](readme/notes/richards-tech.md)
     * [ASEAN](readme/notes/asean.md)
+    * [Learned Helplessness](readme/notes/learned-helplessness.md)
+    * [Business Case](readme/notes/business-case.md)
   * [Collections](readme/collections/README.md)
     * [Books](readme/collections/books/README.md)
       * [The Art of Thinking Clearly (TAoTC)](readme/collections/books/the-art-of-thinking-clearly-taotc.md)
