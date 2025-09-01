@@ -18,8 +18,5 @@
 14. Professional negligence/omission/malpractice&#x20;
 15. Criminal breach of trust
 
-###
+<figure><img src="../../../../.gitbook/assets/incentives.jpg" alt="Facility "><figcaption><p>Facilities: <a href="https://www.facebook.com/photo/?fbid=802949825211289&#x26;set=a.564195882420019">https://www.facebook.com/photo/?fbid=802949825211289&#x26;set=a.564195882420019</a></p></figcaption></figure>
 
-{% hint style="info" %}
-While simply being complacent might not be a crime, the consequences of that complacency, such as enabling fraud or negligence leading to injury, could result in criminal charges.
-{% endhint %}
