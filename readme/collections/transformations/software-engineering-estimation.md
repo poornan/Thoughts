@@ -13,8 +13,7 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=aTpnGG6e0yY" %}
 
-> [betteridges-law-of-headlines.md](../cognitive-biases-simple-errors/curves-effects-laws-and-syndromes/betteridges-law-of-headlines.md "mention")
->
+> * [betteridges-law-of-headlines.md](../cognitive-biases-simple-errors/curves-effects-laws-and-syndromes/betteridges-law-of-headlines.md "mention")
 > * Problem isn't estimation. The problem is>   &#x20;the question that we're asking for which we think estimation would be the answer.
 > * Downside if team miss the date, no upside if they hit the date
 > * Who wants to know, and what decisions rest on our answer; the crux of estimation.
