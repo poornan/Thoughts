@@ -9,3 +9,5 @@ This has limited usage in Complex Adaptive System context; because important or 
 > The Eisenhower Matrix, also referred to as Urgent-Important Matrix, helps you decide on and prioritize tasks by urgency and importance, sorting out less urgent and important tasks which you should either delegate or not do at all.
 >
 > [https://www.eisenhower.me/eisenhower-matrix/](https://www.eisenhower.me/eisenhower-matrix/)
+
+{% embed url="https://youtu.be/quQyt5vS4cE?si=ClGW9YSrlHUfmZts&t=2430" %}
