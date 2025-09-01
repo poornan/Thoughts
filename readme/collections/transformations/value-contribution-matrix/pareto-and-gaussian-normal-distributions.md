@@ -10,7 +10,7 @@
 >
 > In a Pareto world, strategies cannot be based solely on probability assessments. Safe-to-fail experiments and understanding the dynamics of the system are more appropriate.
 >
-> — Google AO Overview for '"Pareto distribution and Gaussian distribution snowden"
+> — Google AI Overview for '"Pareto distribution and Gaussian distribution snowden"
 
 {% embed url="https://substack.com/home/post/p-159303339" %}
 
