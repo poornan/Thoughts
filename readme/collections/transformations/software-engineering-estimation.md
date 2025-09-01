@@ -19,7 +19,7 @@ description: >-
 > * Who wants to know, and what decisions rest on our answer; the crux of estimation.
 > * If there are n people there is n+1 ideas of what estimate is (preconceptions)
 > * Considered implicit commitment, but it is to know the target&#x20;
-> * [97-things-every-programmer-should-know.md](../books/97-things-every-programmer-should-know.md "mention") distinguishing the nature of the question, what is estimate
+> * [97-things-every-programmer-should-know-9-march-2010.md](../books/97-things-every-programmer-should-know-9-march-2010.md "mention") distinguishing the nature of the question, what is estimate
 > * estimation as a commitment is a probability distribution with long tail, not a symmetric give or take.
 > * Clients doesn't want same thing as something else because we've already got that so>   &#x20;we ask for something different and>   &#x20;because it's different it's unknown>   &#x20;either to all software developers or to>   &#x20;us particularly as a team then the shape>   &#x20;of that the variability on that is huge.
 > * then we have the fractal measurement problem where the "closer we get to actually writing the actual software the bigger the software is" not just appears actually is and everything you implement spawns off tune more things that you want to implement that you didn't expect when you originally said when is it going to be done. So the the the thing we're measuring is continually growing.&#x20;

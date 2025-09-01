@@ -27,6 +27,6 @@ description: >-
 >
 > [From](../external-resources/trust-refs.md)
 
-[thanks-for-the-feedback-the-science-and-art-of-receiving-feedback-well.md](../books/thanks-for-the-feedback-the-science-and-art-of-receiving-feedback-well.md "mention")
+[thanks-for-the-feedback-the-science-and-art-of-receiving-feedback-well-4-march-2014.md](../books/thanks-for-the-feedback-the-science-and-art-of-receiving-feedback-well-4-march-2014.md "mention")
 
-[the-five-dysfunctions-of-a-team.md](../books/the-five-dysfunctions-of-a-team.md "mention")
+[the-five-dysfunctions-of-a-team-19-october-2000.md](../books/the-five-dysfunctions-of-a-team-19-october-2000.md "mention")
