@@ -26,3 +26,7 @@ description: >-
 > CAUTION: Being trustworthy is _necessary_ but not _sufficient_ to build trust.
 >
 > [From](../external-resources/trust-refs.md)
+
+[thanks-for-the-feedback-the-science-and-art-of-receiving-feedback-well.md](../books/thanks-for-the-feedback-the-science-and-art-of-receiving-feedback-well.md "mention")
+
+[the-five-dysfunctions-of-a-team.md](../books/the-five-dysfunctions-of-a-team.md "mention")

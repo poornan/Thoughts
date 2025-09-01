@@ -16,6 +16,8 @@
       * [David and Goliath: Underdogs, Misfits, and the Art of Battling Giants](readme/collections/books/david-and-goliath-underdogs-misfits-and-the-art-of-battling-giants.md)
       * [Platform Revolution: How Networked Markets Are Transforming the Economy - 1 April 2016](readme/collections/books/platform-revolution-how-networked-markets-are-transforming-the-economy-1-april-2016.md)
       * [Platform Strategy: Innovation Through Harmonization (Architect Elevator Book Series) - 2 April 2024](readme/collections/books/platform-strategy-innovation-through-harmonization-architect-elevator-book-series-2-april-2024.md)
+      * [Thanks for the Feedback: The Science and Art of Receiving Feedback Well](readme/collections/books/thanks-for-the-feedback-the-science-and-art-of-receiving-feedback-well.md)
+      * [The Five Dysfunctions of a Team](readme/collections/books/the-five-dysfunctions-of-a-team.md)
     * [Portfolio](readme/collections/projects/README.md)
       * [1. Project—Fulcrum](readme/collections/portfolio/1.-project-fulcrum/README.md)
         * [A name that encapsulates the vision of connection, integration, and shared progress.](readme/collections/portfolio/1.-project-fulcrum/the-best-name-for-this-project.md)
