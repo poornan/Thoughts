@@ -1,5 +1,5 @@
 ---
-description: most economically advantageous tender (MEAT)
+description: Most Economically Advantageous Tender (MEAT)
 ---
 
 # Weighted network evaluation in procurement
@@ -31,3 +31,9 @@ Weighted network evaluation in procurement is a sophisticated technique where di
 {% embed url="https://www.linkedin.com/pulse/tender-process-evaluation-criteria-comprehensive-guide-scmdojo-lp73e" %}
 
 {% embed url="https://www.researchgate.net/figure/Suppliers-Evaluation-using-Weighted-Average-Method_fig2_277977895" %}
+
+{% embed url="https://www.youtube.com/watch?v=ow-BUs7ojaQ" %}
+
+{% embed url="https://www.dsta.gov.sg/docs/default-source/dsta-programmes/using-analytic-hierarchy-process-with-operations-analysis-in-project-evaluation.pdf?sfvrsn=2" %}
+
+{% embed url="https://veridion.com/blog-posts/supplier-evaluation-matrix/" %}
