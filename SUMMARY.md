@@ -56,6 +56,7 @@
         * [Recipes vs Chefs](readme/collections/transformations/value-contribution-matrix/recipes-vs-chefs.md)
         * [Resilience vs Robustness](readme/collections/transformations/value-contribution-matrix/resilience-vs-robustness.md)
         * [You Design How you Do Your Work](readme/collections/transformations/value-contribution-matrix/you-design-how-you-do-your-work.md)
+        * [Communicating Values Through Actions](readme/collections/transformations/value-contribution-matrix/communicating-values-through-actions.md)
         * [Givers and Takers](readme/collections/transformations/value-contribution-matrix/givers-and-takers.md)
       * [Inherit Universal Values](readme/collections/transformations/inherit-universal-values.md)
       * [Intellectual humility](readme/collections/transformations/intellectual-humility.md)
