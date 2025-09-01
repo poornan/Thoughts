@@ -62,6 +62,7 @@
         * [Fundamental Disagreements with the Status Quo](readme/collections/transformations/value-contribution-matrix/fundamental-disagreements-with-the-status-quo.md)
         * [Givers and Takers](readme/collections/transformations/value-contribution-matrix/givers-and-takers.md)
       * [Inherit Universal Values](readme/collections/transformations/inherit-universal-values.md)
+      * [Software Engineering Estimation](readme/collections/transformations/software-engineering-estimation.md)
       * [Intellectual humility](readme/collections/transformations/intellectual-humility.md)
       * [Encourage Scientific Inquiry](readme/collections/transformations/encourage-scientific-inquiry.md)
       * [Behaviours](readme/collections/transformations/behaviours/README.md)

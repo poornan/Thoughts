@@ -14,3 +14,5 @@
 > Your "checkout team" doesn't own the checkout process. They own the UI for checkout and maybe some business logic. But every meaningful change requires coordinating with five other teams.
 >
 > [From:](../external-resources/dysfunctional-cross-functional-teams.md)
+
+DDD
