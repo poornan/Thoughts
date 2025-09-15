@@ -101,6 +101,7 @@
         * [Pareto Principle](readme/collections/cognitive-biases-simple-errors/curves-effects-laws-and-syndromes/pareto-principle.md)
         * [Gregor’s Law](readme/collections/cognitive-biases-simple-errors/curves-effects-laws-and-syndromes/gregors-law.md)
       * [Jevon’s paradox](readme/collections/cognitive-biases-simple-errors/jevons-paradox.md)
+      * [Downs-Thomson Paradox](readme/collections/cognitive-biases-simple-errors/downs-thomson-paradox.md)
     * [External Resources](readme/collections/external-resources/README.md)
       * [Failure doesn’t respect abstraction.](readme/collections/external-resources/failure-doesnt-respect-abstraction..md)
       * [The Friendship That Made Google Huge](readme/collections/external-resources/the-friendship-that-made-google-huge.md)
