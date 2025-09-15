@@ -2,7 +2,7 @@
 
 ### What is System 1 and System 2 Thinking?
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 > System 1 and System 2 thinking describes two distinct modes of cognitive processing introduced by Daniel Kahneman in his book Thinking, Fast and Slow. System 1 is fast, automatic, and intuitive, operating with little to no effort. This mode of thinking allows us to make quick decisions and judgments based on patterns and experiences. In contrast, System 2 is slow, deliberate, and conscious, requiring intentional effort. This type of thinking is used for complex problem-solving and analytical tasks where more thought and consideration are necessary.
 >

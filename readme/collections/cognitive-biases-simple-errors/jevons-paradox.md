@@ -9,6 +9,8 @@ description: >-
 
 First known from Wardley Maps, here is the latest ref
 
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 > **AI Overview**
 >
 > Jevons paradox is an economic theory stating that increased efficiency in using a resource can lead to increased, rather than decreased, overall consumption of that resource. Named after economist [William Stanley Jevons](https://www.google.com/search?sca_esv=5b71cfa89013eb9f\&rlz=1C5CHFA_enSG951SG953\&sxsrf=AE3TifOZipHTNefRlpw60hENkUTTG7EdPQ%3A1757930383678\&q=William+Stanley+Jevons\&sa=X\&ved=2ahUKEwjah7yAwdqPAxVSxzgGHTHIAwwQxccNegQILBAB\&mstk=AUtExfA4xJywA_9IKQoI48pDsVcOJrT0cqG-JMZ6Tpx_3QKwxeCWXhtcto4pl9cQpuMeDkMVFODN27hgncKoMxiFjU1otBKt6ShUI1ErdJt5CFMk7EEfedjyb6AOP-F6LYEv_ff1rYChW6KLJX4a2Yd34rhG5zhkj3aUqsGpv_Jmywke-77wZbS7t8nTJJujz3r7dcIaJ2767lRzYOyn4fXpXW_pelXT_mpGIKIWk-QmwvtGFwbUlYcBLhlMArOTh31h8s11U18JvrxH1Sj-v5donhTj\&csui=3), this occurs because efficiency improvements lower the cost per unit of the resource, which stimulates greater demand and potentially new uses, ultimately increasing total consumption. A classic example is how more efficient steam engines led to increased coal use because it made coal a cheaper energy source, driving broader industrial growth. &#x20;
@@ -33,3 +35,5 @@ First known from Wardley Maps, here is the latest ref
 > * [**LED Lighting**](https://www.google.com/search?sca_esv=5b71cfa89013eb9f\&rlz=1C5CHFA_enSG951SG953\&sxsrf=AE3TifOZipHTNefRlpw60hENkUTTG7EdPQ%3A1757930383678\&q=LED+Lighting\&sa=X\&ved=2ahUKEwjah7yAwdqPAxVSxzgGHTHIAwwQxccNegQIfxAB\&mstk=AUtExfA4xJywA_9IKQoI48pDsVcOJrT0cqG-JMZ6Tpx_3QKwxeCWXhtcto4pl9cQpuMeDkMVFODN27hgncKoMxiFjU1otBKt6ShUI1ErdJt5CFMk7EEfedjyb6AOP-F6LYEv_ff1rYChW6KLJX4a2Yd34rhG5zhkj3aUqsGpv_Jmywke-77wZbS7t8nTJJujz3r7dcIaJ2767lRzYOyn4fXpXW_pelXT_mpGIKIWk-QmwvtGFwbUlYcBLhlMArOTh31h8s11U18JvrxH1Sj-v5donhTj\&csui=3)**:**&#x43;heaper, more efficient LED bulbs can lead to more lighting being used in homes and businesses, such as lighting outdoor spaces, leading to higher overall energy consumption.&#x20;
 
 {% embed url="https://www.linkedin.com/posts/simonwardley_x-will-ai-replace-all-coders-and-architects-activity-7372934531516932096-Qzna?rcm=ACoAAAiPr0EBvP-pDYe3CqTxbY2JXKfT2UPAvQY&utm_medium=member_desktop&utm_source=share" %}
+
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
