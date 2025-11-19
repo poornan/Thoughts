@@ -121,6 +121,8 @@
       * [Holub's Corollary to Conway's Law:](readme/collections/external-resources/holubs-corollary-to-conways-law.md)
       * [Complex System Frameworks](readme/collections/external-resources/complex-system-frameworks.md)
       * [Richard Feynman: Can Machines Think?](readme/collections/external-resources/richard-feynman-can-machines-think.md)
+    * [Conversations](readme/collections/conversations/README.md)
+      * [How behaviour depends on structure. metamorphosis, Exaptation in CAS.](readme/collections/conversations/how-behaviour-depends-on-structure.-metamorphosis-exaptation-in-cas..md)
 * [About Me](about-me/README.md)
   * [Inputs](about-me/inputs.md)
   * [Annexure](about-me/annexure.md)
