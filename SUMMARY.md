@@ -4,6 +4,8 @@
   * [Thoughts](readme/thoughts/README.md)
     * [Outliers](readme/thoughts/outliers.md)
     * [GP](readme/thoughts/gp.md)
+    * [Challenges](readme/thoughts/challenges/README.md)
+      * [Audit](readme/thoughts/challenges/audit.md)
   * [Notes](readme/notes/README.md)
     * [Reading](readme/notes/reading.md)
     * [richards-tech](readme/notes/richards-tech.md)
