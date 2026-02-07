@@ -1,11 +1,15 @@
-# ‎Gemini - direct access to Google AI
+---
+description: Origins and current pitfalls
+---
 
-https://gemini.google.com/share/af36efcc1edf
+# ‎Audit - The Roots
+
+https://gemini.google.com/share/af36efcc1edf [https://gemini.google.com/share/af36efcc1edf](https://gemini.google.com/share/af36efcc1edf)
 
 Created with Thinking February 7, 2026 at 12:56 AM\
 Published February 7, 2026 at 07:21 AM
 
-![Uploaded image preview](<../../../../.gitbook/assets/AMW1TPr72WnGcwgeN4gRvrlpqXNNJ95 iB1CslrxpqTBDD14_Je8cIhw6JCVJ3Q avvUkXEeVhxAFQWv7JyQregqUBvj7aJf8HY3htMsDVNbrkDBp5eTzf1_qY6coMk073i0vLxhGeI_L2hBOrKFpCd2clELUiTMMRm975vxJc4m8DMI2JBzPTY>)
+![Uploaded image preview](<../../../.gitbook/assets/AMW1TPr72WnGcwgeN4gRvrlpqXNNJ95 iB1CslrxpqTBDD14_Je8cIhw6JCVJ3Q avvUkXEeVhxAFQWv7JyQregqUBvj7aJf8HY3htMsDVNbrkDBp5eTzf1_qY6coMk073i0vLxhGeI_L2hBOrKFpCd2clELUiTMMRm975vxJc4m8DMI2JBzPTY>)
 
 Understanding Audit
 
