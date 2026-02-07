@@ -9,8 +9,7 @@ description: >-
 
 <figure><img src="../../../../.gitbook/assets/stockholm-syndrome-1.webp" alt=""><figcaption><p><a href="https://www.simplypsychology.org/stockholm-syndrome.html">https://www.simplypsychology.org/stockholm-syndrome.html</a></p></figcaption></figure>
 
-Stockholm syndrome is a psychological response in which a captive develops positive feelings, such as sympathy and loyalty, for their captor or abuser, often as a survival mechanism to reduce threat and increase chances of survival. The term originated after a 1973 bank robbery in Stockholm, Sweden, where hostages bonded with their captors and even defended them after their release. Key symptoms include sympathy for the aggressor, emotional attachment to them, negative feelings toward outside help, and a sense of isolation from the world. While it appears to be a coping strategy for victims in terrifying situations, it is relatively rare.\
-
+Stockholm syndrome is a psychological response in which a captive develops positive feelings, such as sympathy and loyalty, for their captor or abuser, often as a survival mechanism to reduce threat and increase chances of survival. The term originated after a 1973 bank robbery in Stockholm, Sweden, where hostages bonded with their captors and even defended them after their release. Key symptoms include sympathy for the aggressor, emotional attachment to them, negative feelings toward outside help, and a sense of isolation from the world. While it appears to be a coping strategy for victims in terrifying situations, it is relatively rare.<br>
 
 Origin of the Term&#x20;
 

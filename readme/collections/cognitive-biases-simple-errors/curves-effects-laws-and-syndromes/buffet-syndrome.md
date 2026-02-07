@@ -14,8 +14,7 @@ description: >-
 * **Over-servicing:**&#x48;ealthcare providers might also respond by ordering more diagnostic tests and prescribing costlier treatments, knowing the insurer will pay.&#x20;
 * **Rising Costs:**&#x54;he combined effect is increased healthcare consumption, which leads to higher claims for insurers, higher premiums for all policyholders, and greater strain on healthcare resources.&#x20;
 
-Example:Imagine a patient with a fully comprehensive health rider visiting a doctor. Instead of focusing solely on the most necessary treatment, the patient might be more inclined to ask for additional tests or consider a private room if the insurance will cover it. This behavior is a direct parallel to eating more food at an all-you-can-eat buffet simply because it's available at a set price. \
-
+Example:Imagine a patient with a fully comprehensive health rider visiting a doctor. Instead of focusing solely on the most necessary treatment, the patient might be more inclined to ask for additional tests or consider a private room if the insurance will cover it. This behavior is a direct parallel to eating more food at an all-you-can-eat buffet simply because it's available at a set price. <br>
 
 {% hint style="info" %}
 Found in GeBIZ - vision to reality

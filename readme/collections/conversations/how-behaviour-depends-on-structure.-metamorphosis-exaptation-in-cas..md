@@ -6,13 +6,11 @@
 
 I was proposing structural change to software system. Manager ask whats the business usecase.
 
-\
-
+<br>
 
 How he come to understanding that there must be a business usecase.
 
-\
-
+<br>
 
 Only if i know where he comes from i can introduce him to interactive planning. And complex adaptive system changes. How behaviour depends on structure. metamorphosis, Exaptation in CAS.
 
@@ -268,13 +266,11 @@ Does this distinction between "Rigid Rules" (Process Compliance) and "Policy Gua
 
 Anticipated Manager Pushback: rigid system work best on utilities/commodity, less suitable for genesis and product (wardley mapping). Not everything can be commoditised (tea comnoditized). Especially for labour works but not creative profession like software engineering. So the system should adapt agile procurement(statement of work to statement of objectives). These categorisation/topological/typology/taxonomy can only be achieved using policy approach. It help democratize the how, and delegates to lower levels, not central planning and execution. Even now evaluation is not part of the system, it(AHP/ANP) happens offline. Now we can provide those as part of the system.
 
-\
-
+<br>
 
 This allows us to have RPA(Robotic Process Automation). Example we could take advantage of idle resource pool like AWS reserved instances. Instead of predetermined it can contextually adgest on the go.
 
-\
-
+<br>
 
 Technology wise, use BPMN. But strategical option is to implement domain language(dsl) and an engine should generate the runtime and execute. So development iteration is much faster than traditional ways. Every minute we should be able to make change in all layers of the software using dsl.
 
@@ -493,8 +489,7 @@ Would you like me to synthesize all these parts into a final Executive Summary s
 
 Another aspect is future direction like blockchain is AI application. The US federal has identified AI usecase, procurement related are there too. Albania has AI cabinet member for the specific case too. I am observing the horizons. Interactive planning has these in considerations.
 
-\
-
+<br>
 
 \[albania appointed an artificial-intelligence bot to handle government procurement. the new “cabinet member”, diella, which means “sun” in albanian, will manage and award all public tenders. edi rama, the prime minister, has said that diella will make albania “a country where public tenders are 100% free of corruption.” in july he mused about one day having an ai prime minister. ]
 
