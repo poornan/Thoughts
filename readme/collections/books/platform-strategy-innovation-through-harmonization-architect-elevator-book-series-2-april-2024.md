@@ -6,7 +6,7 @@ description: >-
 
 # Platform Strategy: Innovation Through Harmonization (Architect Elevator Book Series) - 2 April 2024
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 > Platforms seem to be everywhere, whether it’s platform business models that fuel the most valuable companies and most unicorns, 100-billion Dollar cloud platforms, or in-house developer and analytics platforms. And that's no surprise: platforms appear to be able to rewrite the laws of physics, for example by boosting innovation thanks to harmonization.
 >

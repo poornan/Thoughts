@@ -1,5 +1,7 @@
 # Audit Roots
 
+<figure><img src="../../../.gitbook/assets/image.png" alt="&#x22;It is impossible for a man to learn what he thinks he already knows.&#x22; -Epictetus (55 - 135 A.D.)"><figcaption><p>"It is impossible for a man to learn what he thinks he already knows."<br>Epictetus (55 - 135 A.D.)</p></figcaption></figure>
+
 > …Talking about diet
 >
 > A: Have you heard "paleo diet"
@@ -115,3 +117,7 @@ Examples:
 
 {% endcolumn %}
 {% endcolumns %}
+
+{% hint style="info" %}
+It is same for Paleo or Keto too, when people know/hear these words first in diet context, they associate the word with that, partly because we learn superficially. Person who already introduced "Paleolithic Era"/"ketogenesis", should understand the diet better not other way.
+{% endhint %}
