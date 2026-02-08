@@ -129,6 +129,8 @@
       * [Audit Roots](readme/collections/touchstones/audit-roots.md)
       * [Depth](readme/collections/touchstones/depth.md)
       * [Isolation/Mutually Exclusive](readme/collections/touchstones/isolation-mutually-exclusive.md)
+    * [Commentary](readme/collections/commentary/README.md)
+      * [Superficial Behaviour](readme/collections/commentary/superficial-behaviour.md)
 * [About Me](about-me/README.md)
   * [Inputs](about-me/inputs.md)
   * [Annexure](about-me/annexure.md)

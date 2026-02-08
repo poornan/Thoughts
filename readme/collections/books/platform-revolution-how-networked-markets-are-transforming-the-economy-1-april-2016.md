@@ -6,7 +6,7 @@ description: >-
 
 # Platform Revolution: How Networked Markets Are Transforming the Economy - 1 April 2016
 
-&#x20;![](<../../../.gitbook/assets/image (1) (1) (1).png>)
+&#x20;![](<../../../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 > Uber. Airbnb. Amazon. Apple. PayPal. All of these companies disrupted their markets when they launched. Today they are industry leaders. What’s the secret to their success?
 >

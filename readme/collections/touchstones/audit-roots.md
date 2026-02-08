@@ -1,6 +1,6 @@
 # Audit Roots
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="&#x22;It is impossible for a man to learn what he thinks he already knows.&#x22; -Epictetus (55 - 135 A.D.)"><figcaption><p>"It is impossible for a man to learn what he thinks he already knows."<br>Epictetus (55 - 135 A.D.)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="&#x22;It is impossible for a man to learn what he thinks he already knows.&#x22; -Epictetus (55 - 135 A.D.)"><figcaption><p>"It is impossible for a man to learn what he thinks he already knows."<br>Epictetus (55 - 135 A.D.)</p></figcaption></figure>
 
 > …Talking about diet
 >
