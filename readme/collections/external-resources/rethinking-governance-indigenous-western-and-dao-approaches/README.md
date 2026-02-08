@@ -6,7 +6,7 @@
 
 {% embed url="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7424067763935023105" %}
 
-![Rethinking Governance: Indigenous, Western, and DAO Approaches](../../../.gitbook/assets/1770035509241)
+![Rethinking Governance: Indigenous, Western, and DAO Approaches](../../../../.gitbook/assets/1770035509241)
 
 Photo by Anthony Tori on Unsplash
 
@@ -105,7 +105,7 @@ An eco-social contract restores the proper ordering. It reclaims the pre-politic
   * Non-extractive flows
   * Technology as coordination support not moral authority
 
-Read more: [Toward an eco-social contract](https://www.kosmosjournal.org/kj_article/toward-an-eco-social-contract-for-regenerative-futures/)&#x20;
+Read more: [Toward an eco-social contract](https://www.kosmosjournal.org/kj_article/toward-an-eco-social-contract-for-regenerative-futures/) / [toward-an-eco-social-contract-for-regenerative-futures-kosmos-journal.md](toward-an-eco-social-contract-for-regenerative-futures-kosmos-journal.md "mention")
 
 ## Summary
 
