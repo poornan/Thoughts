@@ -1,5 +1,11 @@
 # Rethinking Governance: Indigenous, Western, and DAO Approaches
 
+{% embed url="https://www.linkedin.com/pulse/rethinking-governance-indigenous-western-dao-approaches-fan-yang-l7ghe/" %}
+
+{% embed url="https://www.linkedin.com/posts/dave-snowden-2a93b_governance-is-often-treated-as-an-administrative-activity-7426140607754117121-plpv" %}
+
+{% embed url="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7424067763935023105" %}
+
 ![Rethinking Governance: Indigenous, Western, and DAO Approaches](../../../.gitbook/assets/1770035509241)
 
 Photo by Anthony Tori on Unsplash
@@ -99,7 +105,7 @@ An eco-social contract restores the proper ordering. It reclaims the pre-politic
   * Non-extractive flows
   * Technology as coordination support not moral authority
 
-Read more: Toward an eco-social contract (https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Ekosmosjournal%2Eorg%2Fkj\_article%2Ftoward-an-eco-social-contract-for-regenerative-futures%2F\&urlhash=f0A\_\&trk=article-ssr-frontend-pulse\_little-text-block)
+Read more: [Toward an eco-social contract](https://www.kosmosjournal.org/kj_article/toward-an-eco-social-contract-for-regenerative-futures/)&#x20;
 
 ## Summary
 
