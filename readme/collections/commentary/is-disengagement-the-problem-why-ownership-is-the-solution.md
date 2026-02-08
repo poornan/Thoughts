@@ -140,7 +140,7 @@ Overall, this is a thought-provoking framework that offers useful vocabulary for
 
 ***
 
-## Revised by Claude
+## Revised by Claude [https://claude.ai/share/f1dd069e-a5bd-42af-9653-333d5c34fa6e](https://claude.ai/share/f1dd069e-a5bd-42af-9653-333d5c34fa6e)
 
 {% hint style="info" %}
 ## Is Disengagement the Problem? Why Ownership is the Solution
