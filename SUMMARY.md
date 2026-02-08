@@ -127,6 +127,7 @@
         * [Toward an Eco-Social Contract for Regenerative Futures – Kosmos Journal](readme/collections/external-resources/rethinking-governance-indigenous-western-and-dao-approaches/toward-an-eco-social-contract-for-regenerative-futures-kosmos-journal.md)
       * [Political Capital](readme/collections/external-resources/political-capital/README.md)
         * [Invest Your Political Capital - The Architect Elevator](readme/collections/external-resources/political-capital/invest-your-political-capital-the-architect-elevator.md)
+      * [Effective Weapon Greed](readme/collections/external-resources/effective-weapon-greed.md)
     * [Conversations](readme/collections/conversations/README.md)
       * [How behaviour depends on structure. metamorphosis, Exaptation in CAS.](readme/collections/conversations/how-behaviour-depends-on-structure.-metamorphosis-exaptation-in-cas..md)
     * [Touchstones](readme/collections/touchstones/README.md)

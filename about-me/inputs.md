@@ -40,6 +40,8 @@ Purpose and money: take recording&#x20;
 
 [the-warrior-doesnt-chase-battles..md](../readme/collections/external-resources/the-warrior-doesnt-chase-battles..md "mention")
 
+[effective-weapon-greed.md](../readme/collections/external-resources/effective-weapon-greed.md "mention")
+
 ***
 
 This collection help for semantic reasoning
