@@ -125,6 +125,7 @@
       * [Richard Feynman: Can Machines Think?](readme/collections/external-resources/richard-feynman-can-machines-think.md)
       * [Rethinking Governance: Indigenous, Western, and DAO Approaches](readme/collections/external-resources/rethinking-governance-indigenous-western-and-dao-approaches/README.md)
         * [Toward an Eco-Social Contract for Regenerative Futures – Kosmos Journal](readme/collections/external-resources/rethinking-governance-indigenous-western-and-dao-approaches/toward-an-eco-social-contract-for-regenerative-futures-kosmos-journal.md)
+      * [Political Capital](readme/collections/external-resources/political-capital.md)
     * [Conversations](readme/collections/conversations/README.md)
       * [How behaviour depends on structure. metamorphosis, Exaptation in CAS.](readme/collections/conversations/how-behaviour-depends-on-structure.-metamorphosis-exaptation-in-cas..md)
     * [Touchstones](readme/collections/touchstones/README.md)
