@@ -42,4 +42,10 @@ Purpose and money: take recording&#x20;
 
 ***
 
+This collection help for semantic reasoning
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="175"><figcaption><p><a href="https://www.google.com/search?q=semantic+reasoning">https://www.google.com/search?q=semantic+reasoning</a></p></figcaption></figure>
+
+***
+
 1. [https://thecynefin.co/wp-content/uploads/2025/07/snowden-2011-good-fences-make-good-neighbors-m-1-2.pdf](https://thecynefin.co/wp-content/uploads/2025/07/snowden-2011-good-fences-make-good-neighbors-m-1-2.pdf)
