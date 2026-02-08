@@ -131,6 +131,7 @@
       * [Isolation/Mutually Exclusive](readme/collections/touchstones/isolation-mutually-exclusive.md)
     * [Commentary](readme/collections/commentary/README.md)
       * [Superficial Behaviour](readme/collections/commentary/superficial-behaviour.md)
+      * [Is Disengagement the Problem? Why Ownership is the Solution](readme/collections/commentary/is-disengagement-the-problem-why-ownership-is-the-solution.md)
 * [About Me](about-me/README.md)
   * [Inputs](about-me/inputs.md)
   * [Annexure](about-me/annexure.md)
