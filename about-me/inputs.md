@@ -44,7 +44,7 @@ Purpose and money: take recording&#x20;
 
 This collection help for semantic reasoning
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="175"><figcaption><p><a href="https://www.google.com/search?q=semantic+reasoning">https://www.google.com/search?q=semantic+reasoning</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p><a href="https://share.google/aimode/XGFH8AegvChbSovpB">https://share.google/aimode/XGFH8AegvChbSovpB</a> <a href="https://www.google.com/search?q=semantic+reasoning">https://www.google.com/search?q=semantic+reasoning</a></p></figcaption></figure>
 
 ***
 
