@@ -122,6 +122,8 @@ Examples:
 It is same for Paleo or Keto too, when people know/hear these words first in diet context, they associate the word with that, partly because we learn superficially. Person who already introduced "Paleolithic Era"/"ketogenesis", should understand the diet better not other way.
 {% endhint %}
 
+[rethinking-governance-indigenous-western-and-dao-approaches.md](../external-resources/rethinking-governance-indigenous-western-and-dao-approaches.md "mention")
+
 ***
 
 ## Revised with [Claude](https://claude.ai/share/118c6146-9c0c-42e3-8944-aff179064046)&#x20;
