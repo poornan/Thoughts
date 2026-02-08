@@ -92,9 +92,9 @@ This is a "dangerous" kind of lack of ownership. The person does exactly what th
 | **Action-Oriented**         | "Driving Results Through Total Ownership"          |
 | **Direct**                  | "Why Ownership Must Come First"                    |
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://share.google/aimode/5UCzd0rmZfhhD9OuJ">https://share.google/aimode/5UCzd0rmZfhhD9OuJ</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://share.google/aimode/5UCzd0rmZfhhD9OuJ">https://share.google/aimode/5UCzd0rmZfhhD9OuJ</a></p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://share.google/aimode/uV23L64YaD7tfTT4H">https://share.google/aimode/uV23L64YaD7tfTT4H</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><a href="https://share.google/aimode/uV23L64YaD7tfTT4H">https://share.google/aimode/uV23L64YaD7tfTT4H</a></p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p><a href="https://share.google/aimode/XGFH8AegvChbSovpB">https://share.google/aimode/XGFH8AegvChbSovpB</a></p></figcaption></figure>
 
