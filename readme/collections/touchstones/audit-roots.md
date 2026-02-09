@@ -122,7 +122,17 @@ Examples:
 It is same for Paleo or Keto too, when people know/hear these words first in diet context, they associate the word with that, partly because we learn superficially. Person who already introduced "Paleolithic Era"/"ketogenesis", should understand the diet better not other way.
 {% endhint %}
 
+{% hint style="info" %}
+Early Literature on **responsibility/audit**: Alexander Hamilton in _The Federalist Papers_ (No. 63, 1788).
+
+Summary: Hamilton argues that for a government to be effective, there must be a clear point of responsibility where the public can direct their praise or blame. It links **responsibility** to the **visibility of one’s actions.**
+{% endhint %}
+
 [rethinking-governance-indigenous-western-and-dao-approaches](../external-resources/rethinking-governance-indigenous-western-and-dao-approaches/ "mention")
+
+
+
+
 
 ***
 
