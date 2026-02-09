@@ -130,7 +130,11 @@ Summary: Hamilton argues that for a government to be effective, there must be a 
 
 [rethinking-governance-indigenous-western-and-dao-approaches](../external-resources/rethinking-governance-indigenous-western-and-dao-approaches/ "mention")
 
+***
 
+(Substance vs Form) / (word/rule/law vs spirit of the same)&#x20;
+
+What to do when new information presented?
 
 
 
