@@ -137,6 +137,8 @@
     * [Commentary](readme/collections/commentary/README.md)
       * [Superficial Behaviour](readme/collections/commentary/superficial-behaviour.md)
       * [Is Disengagement the Problem? Why Ownership is the Solution](readme/collections/commentary/is-disengagement-the-problem-why-ownership-is-the-solution.md)
+    * [WhitePaper](readme/collections/whitepaper/README.md)
+      * [Tambapanni — History Without Borders](readme/collections/whitepaper/tambapanni-history-without-borders.md)
 * [About Me](about-me/README.md)
   * [Inputs](about-me/inputs.md)
   * [Annexure](about-me/annexure.md)
