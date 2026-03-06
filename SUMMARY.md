@@ -139,6 +139,7 @@
       * [Is Disengagement the Problem? Why Ownership is the Solution](readme/collections/commentary/is-disengagement-the-problem-why-ownership-is-the-solution.md)
     * [Essay/Policy/White Paper](readme/collections/essay-policy-white-paper/README.md)
       * [Tambapanni — History Without Borders](readme/collections/essay-policy-white-paper/tambapanni-history-without-borders.md)
+      * [Tambapanni Positioned](readme/collections/essay-policy-white-paper/tambapanni-positioned.md)
 * [About Me](about-me/README.md)
   * [Inputs](about-me/inputs.md)
   * [Annexure](about-me/annexure.md)
