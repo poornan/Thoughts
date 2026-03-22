@@ -31,4 +31,4 @@ If character is a tree, humility is the roots. With universal values, we can con
 - [Substack](https://anan12.substack.com): essays on systems, teams, and incentive structures
 - [ORCID: 0009-0004-9181-2270](https://orcid.org/0009-0004-9181-2270): original work on small island economies
 - [GitHub](https://github.com/poornan): open-source contributions
-- [LinkedIn](https://linkedin.com/in/eananthaneshan): professional profile
+- [LinkedIn](https://www.linkedin.com/in/anan-elampoornan): professional profile
