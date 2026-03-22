@@ -1,44 +1,34 @@
 ---
 description: >-
-  Welcome to my "About Me" page where I share insights into my journey and
-  passions. I believe in the philosophy of lifelong learning and embracing
-  challenges as opportunities for growth.
+  This site documents how one practitioner thinks about procurement,
+  institutions, and the systems that hold societies together.
 ---
 
 # About Me
 
-> A true warrior doesn’t live to fight.\
-> He lives to transform.
+> A true warrior doesn't live to fight. He lives to transform.
 >
-> It’s not about swinging the sword — it’s about knowing when to sheath it.\
+> It's not about swinging the sword — it's about knowing when to sheath it.
 > Not about winning every war — but choosing the ones that shape the soul.
 >
-> The warrior doesn't chase battles. \
-> But when the storm comes, \
-> he stands where others kneel - not to fight, but to become.
->
-> The world will throw chaos, doubt, fear — and still, the warrior rises.\
-> Not louder, but clearer.\
-> Not hardened, but wiser.\
-> He doesn’t need a crown or applause.\
-> The fire in his chest is proof enough.
->
-> You don’t become a warrior by surviving.\
-> You become one by awakening through the fire — and returning with peace.
->
-> — [@stoicmonktemple](https://www.instagram.com/stoicmonktemple/) [the-warrior-doesnt-chase-battles..md](../readme/collections/external-resources/the-warrior-doesnt-chase-battles..md "mention")
+> — [@stoicmonktemple](https://www.instagram.com/stoicmonktemple/) [the-warrior-doesnt-chase-battles.](../readme/collections/external-resources/the-warrior-doesnt-chase-battles..md "mention")
 
-Welcome to my "About Me" page where I share insights into my journey and passions. I believe in the philosophy of lifelong learning and embracing challenges as opportunities for growth. My values are rooted in integrity, creativity, and empathy, guiding my decision-making and interactions. I am seeking a purposeful job that allows me to contribute to society by blending my skills in technology with the arts. Current projects include developing open-source tools to support creative expression and collaborating on initiatives that promote sustainable living and innovation.
+I am Elampoornan Ananthaneshan.
 
-#### Objectives
+I grew up in northern Sri Lanka during the war. When you watch institutions fail, you understand what holds a society together. You stop taking it for granted. You start asking what makes it work.
 
-* **Blend Technology with Arts**: Utilize my interdisciplinary expertise to create innovative projects that resonate with societal needs and promote artistic expression.
-* **Contribute to Government Initiatives**: Leverage my role in government procurement to foster stability and sustainable growth, supporting initiatives that enhance public welfare and community values.
-* **Promote Lifelong Learning**: Engage in continuous personal and professional development to refine my skills and knowledge, ensuring I can effectively contribute to both my career and societal progress.
-* **Drive Open-Source Collaboration**: Encourage collaboration in the tech community to build open-source tools that facilitate creative and sustainable solutions.
+That question brought me to Singapore in 2015. Singapore is what a functioning state looks like. I work on GeBIZ, the government's one-stop e-procurement portal, and I have stayed on the same platform for nearly a decade because the work sits at the intersection of that question: how do institutions actually function, and what systems make them reliable?
 
-#### Why I Work in Government Procurement
+Trade ensures peace and stability between nations. Regional procurement frameworks help absorb uncertainty rather than engaging in futile attempts to reduce it. Through a decade inside this system, I have come to think about how procurement evolves from transactional workflows into domain-native ecosystems, and what institutional preconditions make that evolution possible. That thinking is documented here as [Project Fulcrum](readme/collections/portfolio/1.-project-fulcrum/README.md) and in the [Tambapanni series](readme/collections/essay-policy-white-paper/tambapanni-history-without-borders.md).
 
-Contributing to state institutions is crucial for upholding common values, supporting societal stability, and fostering a thriving nation. A strong state is a foundational pillar for any country's success, exemplified by nations such as Singapore, where effective government practices contribute to remarkable social and economic achievements. Engaging in the government procurement domain allows me to actively participate in shaping trade policies and strategies, which are vital for maintaining peace and stability between nations.
+I also mentor at the Singapore Mentorship Committee, where the questions that interest me most are about building irreplaceable value in a world where AI is displacing task-based work.
 
-Trade not only supports economic growth but also serves as a crucial instrument for nurturing diplomatic relations and cross-border collaboration. Through my work, I aim to establish innovative and efficient regional procurement frameworks that can _**absorb uncertainties**_ in a fluctuating global market. These frameworks help mitigate risks and prevent _**futile attempts at reducing**_ them, promoting stability and prosperity instead. My efforts in this field are driven by a commitment to creating lasting positive impacts, fostering an environment where both economies and communities can flourish.
+If character is a tree, humility is the roots. With universal values, we can connect through shared humanity, transcend differences to find common ground, and co-create to solve problems together.
+
+**Where to find my work:**
+- This site: systems thinking, Project Fulcrum, institutional architecture
+- [Technical blog](https://blog.inception.lk) (since 2010): engineering, architecture, implementation
+- [Substack](https://anan12.substack.com): essays on systems, teams, and incentive structures
+- [ORCID: 0009-0004-9181-2270](https://orcid.org/0009-0004-9181-2270): original work on small island economies
+- [GitHub](https://github.com/poornan): open-source contributions
+- [LinkedIn](https://linkedin.com/in/eananthaneshan): professional profile
