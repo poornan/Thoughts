@@ -15,7 +15,7 @@ description: >-
 
 I am Elampoornan Ananthaneshan.
 
-I grew up in northern Sri Lanka during the war. When you watch institutions fail, you understand what holds a society together. You stop taking it for granted. You start asking what makes it work.
+I grew up in northern Sri Lanka during the war. When you watch institutions fail, you understand what holds a society together. The rule of law. The functioning state. You stop taking it for granted. You start asking what makes it work.
 
 That question brought me to Singapore in 2015. Singapore is what a functioning state looks like. I work on GeBIZ, the government's one-stop e-procurement portal, and I have stayed on the same platform for nearly a decade because the work sits at the intersection of that question: how do institutions actually function, and what systems make them reliable?
 
