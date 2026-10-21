@@ -9,6 +9,6 @@
 >
 >
 > > _The automatic operations of System 1 generate surprisingly complex patterns of ideas, but only the slower System 2 can construct thoughts in an orderly series of steps._\
-> > &#xNAN;_**– Daniel Kahneman** in Thinking, Fast and Slow_
+> > _**– Daniel Kahneman** in Thinking, Fast and Slow_
 >
 > [https://thedecisionlab.com/reference-guide/philosophy/system-1-and-system-2-thinking](https://thedecisionlab.com/reference-guide/philosophy/system-1-and-system-2-thinking)

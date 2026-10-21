@@ -105,6 +105,8 @@
       * [Jevon’s paradox](readme/collections/cognitive-biases-simple-errors/jevons-paradox.md)
       * [Downs-Thomson Paradox](readme/collections/cognitive-biases-simple-errors/downs-thomson-paradox.md)
     * [External Resources](readme/collections/external-resources/README.md)
+      * [Education](readme/collections/external-resources/education/README.md)
+        * [Kuppi Classes — Sri Lanka Education Forum — Catalyzing Policy Reforms](readme/collections/external-resources/education/kuppi-classes-sri-lanka-education-forum-catalyzing-policy-reforms.md)
       * [Failure doesn’t respect abstraction.](readme/collections/external-resources/failure-doesnt-respect-abstraction..md)
       * [The Friendship That Made Google Huge](readme/collections/external-resources/the-friendship-that-made-google-huge.md)
       * [Vendor who's happy to take your money and assure you all is fine.](readme/collections/external-resources/vendor-whos-happy-to-take-your-money-and-assure-you-all-is-fine..md)
