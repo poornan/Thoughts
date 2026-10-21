@@ -8,13 +8,13 @@
 
 Posted on August 14, 2006  /  [12 Comments](https://educationforum.lk/2006/08/kuppi-classes/#comments)
 
-From what I have heard, the term Kuppi classes refers to group-tutoring offered in the universities by senior students to juniors. These classes may even take the place of regular classes for some students, because, as the seniors are said to advice the juniors, there is no reason to attend lectures and get the â€˜same old same oldâ€™ when that â€˜same oldâ€™ can be spoon-fed by senior students from their previous yearâ€™s notes. There is also the notion that these classes are ways of winning over the juniors for political purposes, explaining why seniors find time to do this.
+From what I have heard, the term Kuppi classes refers to group-tutoring offered in the universities by senior students to juniors. These classes may even take the place of regular classes for some students, because, as the seniors are said to advice the juniors, there is no reason to attend lectures and get the "same old same old" when that "same old" can be spoon-fed by senior students from their previous year's notes. There is also the notion that these classes are ways of winning over the juniors for political purposes, explaining why seniors find time to do this.
 
 I first learnt about the phenomenon early this year at a symposium on undergraduate education when some colleagues from the University of Peradeniya mentioned it. Later somebody suggested that the origin of the word may have something to do with filling up little bottles (kuppi = little bottle). I made further inquiries came up with the starting paragraph, but then, a young friend, a student from U of Kelaniya, said, for him the expression means any situation where students study together. He thinks the term may come from the image of late night burning of kuppi lampu, small kerosene oil lamps.
 
 What is the real etymology of the phrase? Will that tell us something about the phenomenon?
 
-What are the realties that underlie the phenomenon of â€œKuppi classesâ€? Is it nothing more than self-help among students, or is there a widespread disdain for educators and a tuition culture, albeit with different economics, has taken root in higher education?
+What are the realties that underlie the phenomenon of "Kuppi classes"? Is it nothing more than self-help among students, or is there a widespread disdain for educators and a tuition culture, albeit with different economics, has taken root in higher education?
 
 What really goes on in our universities?
 
@@ -24,7 +24,7 @@ For example, what is the learning environment like?
 
 All in all we have very few indicators. I was a teacher in the university system only for a short while, that too just before 1988-89, the tumultuous years that re-redefined the university culture, I think. What I hear now are anecdotes. Where is the data?
 
-The Quality Assurance and Accreditation agency that was set up recently by the IRQUE project is making the rounds in the universities evaluating the quality of teaching– discipline by disciplineâ€”and the information is made available on their web site (http://www.qaacouncil.lk/). A cursory glance showed most departments receiving a passing grade with a rare department receiving an unsatisfactory in one of out of 8 factors considered. In the small world of the Sri Lankan university system it would be no mean task for a group of reviewers to give even that kind of marginal negative feedback to a set of colleagues in another university. I would not devalue the process of quality assurance, but I would not hold my breath in expectation of meaningful assessments either.
+The Quality Assurance and Accreditation agency that was set up recently by the IRQUE project is making the rounds in the universities evaluating the quality of teaching– discipline by discipline and the information is made available on their web site (http://www.qaacouncil.lk/). A cursory glance showed most departments receiving a passing grade with a rare department receiving an unsatisfactory in one of out of 8 factors considered. In the small world of the Sri Lankan university system it would be no mean task for a group of reviewers to give even that kind of marginal negative feedback to a set of colleagues in another university. I would not devalue the process of quality assurance, but I would not hold my breath in expectation of meaningful assessments either.
 
 Inputs and outputs are better bets.
 
@@ -52,21 +52,20 @@ We know that the universities admit students above a certain Z-score received at
 
 Recently there was a testing of English skills across the university system involving students where a sample of students was given the City & Guilds ESOL and SESOL tests (English/Spoken English for Speakers of Other Languages). The results of the survey are not meant for public consumption probably because the survey was preliminary and the sampling not too scientific. However, Skills International, the company that conducted the tests, kindly gave us an executive summary of the results.
 
-About 40% of the students in the sample were judged to have the â€˜ability to understand & express requirements accurately with an appreciable range to follow a university program in English effectivelyâ€™ with the percentage varying by academic stream (Arts, 29% and Science, 57%). Almost all others in the sample were judged to have â€˜the potential to upgrade their competencyâ€™. I see the glass as half-full.
+About 40% of the students in the sample were judged to have the "ability to understand & express requirements accurately with an appreciable range to follow a university program in English effectively" with the percentage varying by academic stream (Arts, 29% and Science, 57%). Almost all others in the sample were judged to have "the potential to upgrade their competency". I see the glass as half-full.
 
 We need more systematic surveys of university students to learn about their knowledge, skills attitudes and concerns. I am familiar with two surveys that are done by the universities in the US (Freshmen survey and the College Student Survey, respectively, coordinated by the Cooperative Institutional Research Program (CIRP) located at UCLA-University of California in Los Angeles)
 
-Surveys are costly but our students are worth it. Decisions should not be made on the basis of slogans of a few students or anecdotes shared at cocktail parties or even education seminars. We canâ€™t wait for the school system to fix itself. In the universities we get a chance to work with a selected group. Why not work with them and try to fix education from the top?
+Surveys are costly but our students are worth it. Decisions should not be made on the basis of slogans of a few students or anecdotes shared at cocktail parties or even education seminars. We can't wait for the school system to fix itself. In the universities we get a chance to work with a selected group. Why not work with them and try to fix education from the top?
 
 **Quality of teachers**
 
 If I were to fancy getting one issue to throw money at, I would pick continuing education for university faculty. Yes, our universities are generous with sabbaticals. All senior staff, academic and non-academic, are entitled to sabbaticals. (To my knowledge, no where else in the world will a university send its registrars, fiscal officers and other senior administrators on paid time off for pseudo-sabbaticals. That is another matter.)
 
-Yet the majority of students in the arts and humanities are taught by teachers who effectively have no more than a bachelors degree. Many acquire a masters degree from the same department from which they graduated and call it a day. We did a comprehensive study on the quality of Arts and humanities faculty in our universities. The publication will be out soon. In the meantime Iâ€™ll close with quote by an educator who said:
+Yet the majority of students in the arts and humanities are taught by teachers who effectively have no more than a bachelors degree. Many acquire a masters degree from the same department from which they graduated and call it a day. We did a comprehensive study on the quality of Arts and humanities faculty in our universities. The publication will be out soon. In the meantime I'll close with quote by an educator who said:
 
-He who learns from one occupied in learning, drinks of a _running stream_. He who learns from one who has learned all he is to teach, drinks â€œthe green mantle of the _stagnant poo&#x6C;_&#xE2;€
-
-_A. J. Scott, the first Principal of Owens College, Manchester, 1851_
+> He who learns from one occupied in learning, drinks of a _running stream_. He who learns from one who has learned all he is to teach, drinks "the green mantle of the _stagnant pool"_\
+> _&#x41;. J. Scott, the first Principal of Owens College, Manchester, 1851_
 
 Stagnant pools and Kuppi classes–may be there is a connection.
 
@@ -103,9 +102,9 @@ Stagnant pools and Kuppi classes–may be there is a connection.
 
     I think both the descriptions of Kuppi classes are not correct.
 
-    They are classes conducted immediately prior to examinations, by the members of the same batch (rather than seniors) who have studied and confident with their knowledge for the benefit of the others. The objective of these classes are not to “teach” anything as such, but to fill the minds of the students with some information (which most of the times they may not even understand) so that they can go to the examination and write something to get a simple pass.
+    <mark style="color:$warning;">They are classes conducted immediately prior to examinations, by the members of the same batch (rather than seniors) who have studied and confident with their knowledge for the benefit of the others. The objective of these classes are not to “teach” anything as such, but to fill the minds of the students with some information (which most of the times they may not even understand) so that they can go to the examination and write something to get a simple pass.</mark>
 
-    It is not unnatural for Sri Lankan university lecturers to “leak” more than half of the question paper before the exams. (usually there is a special session meant for this immediately before the exams) Lecturers have to do this because otherwise the students might not score well and that will badly reflect on the former. Sometimes â€œkuppi classesâ€ are meant to discuss these questions.
+    <mark style="color:$warning;">It is not unnatural for Sri Lankan university lecturers to “leak” more than half of the question paper before the exams. (usually there is a special session meant for this immediately before the exams) Lecturers have to do this because otherwise the students might not score well and that will badly reflect on the former. Sometimes "kuppi classes" are meant to discuss these questions.</mark>
 
     In the contemporary university sub-culture “kuppiya” is the name used for a student more intelligent/informative then the rest. (Kuppiya stands for brightness.) The classes are known as “kuppi classes” because they are conducted by the “kuppiyas”
 
@@ -126,7 +125,7 @@ Stagnant pools and Kuppi classes–may be there is a connection.
 
     As a policy, we always went the last mile to get as much graduates to our team, but there were so many reasons that prevented us from doing so. Finally, out of the people I have involved in recruiting only about 10% were local graduates.
 
-    1\) None of the local graduates whom I have interviewed ever wanted to take a job in marketing. (There are always plenty of vacancies in marketing, in the private sector) However, invariably every graduate wanted a “technical” job and was not willing to take a challenge.
+    1\) None of the local graduates whom I have interviewed ever wanted to take a job in marketing. (There are always plenty of vacancies in marketing, in the private sector) However, <mark style="color:$warning;">invariably every graduate wanted a “technical” job and was not willing to take a challenge.</mark>
 
     2\) The local graduates have either little or no practical experience on the type of the work we did. So we could only take them as trainees. The allowances for entry level trainees were in the range of Rs. 3,000 – 5,000. (This will change after six months or one year later, depending upon the performance to a higher level, say may be Rs. 10,000 – 20,000 or even more) Usually graduates wanted higher salaries, in spite of not having any experience and obviously could not be productive from the day one.
 
